@@ -1,0 +1,2308 @@
+<!DOCTYPE html>
+<html class="no-js" lang="id" itemscope itemtype="//schema.org/WebSite" />
+    
+    <head>
+        <!-- DNS Prefetch section-->
+ <link rel="dns-prefetch" href="//imasdk.googleapis.com">
+<!-- Google Analytics -->
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+
+<!-- Google Tag Manager -->
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+
+<!-- Google Publisher Tag -->
+<link rel="dns-prefetch" href="//www.googletagservices.com">
+
+<!-- Facebook -->
+<link rel="dns-prefetch" href="//connect.facebook.net">
+
+<!-- Twitter -->
+<link rel="dns-prefetch" href="//platform.twitter.com">
+
+<!-- Google Fonts -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<!-- DoubleClick -->
+<link rel="dns-prefetch" href="//ad.doubleclick.net">
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net">
+<link rel="dns-prefetch" href="//cm.g.doubleclick.net">
+<link rel="dns-prefetch" href="//securepubads.g.doubleclick.net">
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+<!-- Google AdSense -->
+<link rel="dns-prefetch" href="//adservice.google.com">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+
+
+<link rel="preload" href="//micro.rubiconproject.com/prebid/dynamic/22166.js" as="script">
+        <script type="text/javascript">
+    
+    window.region    = getRegion();
+    window.continent = getContinent();
+    window.isAllowAddressByRegion = isAllowAddressByRegion();
+
+    function getRegion(){
+        var region = getCookie('region');
+
+        if(region === ""){
+            var Httpreq = new XMLHttpRequest(); 
+            Httpreq.open("GET","https://pro.ip-api.com/json/?key=tZjXsR6xtdknm7C&fields=region",false);
+            Httpreq.send(null);
+            region = JSON.parse(Httpreq.responseText).region;
+            createCookie('region', region);
+            return region;
+        }
+
+        return region;        
+    }
+
+    function getContinent(){
+        var continent = getCookie('continent');
+
+        if(continent === ""){
+            var Httpreq = new XMLHttpRequest(); 
+            Httpreq.open("GET","https://pro.ip-api.com/json/?key=tZjXsR6xtdknm7C&fields=continent",false);
+            Httpreq.send(null);
+            continent = JSON.parse(Httpreq.responseText).continent;
+            createCookie('continent', continent);
+            return continent;
+        }
+
+        return continent;
+    }
+
+    function isAllowAddressByRegion(){
+
+      
+               
+            
+            if(window.continent == 'Europe'){
+                return false;
+            }
+
+            if(window.region == 'CA'){
+                return false;
+            }
+
+               
+
+        return true;
+    }
+
+    function createCookie(cookieName, cookieValue)
+    {
+        var date = new Date();
+        date.setTime( date.getTime() + (5 * 60000) );
+
+        document.cookie = cookieName + "=" + cookieValue + "; expires=" + date.toGMTString();
+    }
+
+    function getCookie(cookieName)
+    {
+        var name = cookieName + "=";
+        var allCookieArray = document.cookie.split(';');
+        for(var i=0; i<allCookieArray.length; i++)
+        {
+            var temp = allCookieArray[i].trim();
+            if (temp.indexOf(name) == 0)
+                return temp.substring(name.length,temp.length);
+        }
+        return "";
+    }
+      
+</script>        
+        <meta charset="utf-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="theme-color" content="#ec2227" />
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+
+<meta name="author" content="IDN Times" />
+<meta name="csrftoken" content="" id="csrftoken" />
+<meta name="yandex-verification" content="ffc883ca21ef153a" />
+<!-- <meta name="apple-itunes-app" content="app-id=1035533846" />
+<meta name="google-play-app" content="app-id=com.idntimes.idntimes" /> -->
+<meta name="p:domain_verify" content="cb42fd23f2744a947ae4f0b581dab883"/>
+
+<meta name="csrf-token" content="66y6jIfejwAERTkChYrU2R0OVY2WV4GEPLWvLGr5">
+
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot-news" content="index, follow" />
+    <meta name="googlebot" content="index, follow"/>
+    <meta name="geo.country" content="id" />
+    <meta http-equiv="content-language" content="In-Id" />
+    <meta name="geo.placename" content="Indonesia" />
+    <meta name="robots" content="max-image-preview:large">
+                                <title itemprop="name">Resensi Novel Laskar Pelangi Karya Andrea Hirata</title>
+            <meta name="description" content="Inilah resensi novel Laskar Pelangi yang menjadi karya pertama Andrea Hirata yang diterbitkan tahun 2005 oleh Bentang Pustaka." />
+        
+        <link rel="canonical" href="https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi" itemprop="url">
+        <meta name="author" content="Bella Manoban">
+        <link rel="image_src" type="image/png" href="/assets/img/idntimes.png" />
+
+        <link href="https://www.idntimes.com/life/inspiration/amp/seo-intern/resensi-novel-laskar-pelangi" rel="amphtml">
+
+        <!-- iOS Apps -->
+        <meta name="apple-itunes-app" content="app-id=502838820">
+
+        <!-- Schema.org markup for Google+ -->
+        <meta itemprop="name" content="Resensi Novel Laskar Pelangi Karya Andrea Hirata" />
+        <meta itemprop="description" content="Terinspirasi dari kisah nyata sang penulis" />
+        <meta itemprop="image" content="https://cdn.idntimes.com/content-images/post/20220922/laspel-0bd915a277fa7c7dda0d28f8de53b307_wm_600x315.jpg" />
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@idntimes" />
+        <meta name="twitter:title" content="Resensi Novel Laskar Pelangi Karya Andrea Hirata" />
+        <meta name="twitter:description" content="Terinspirasi dari kisah nyata sang penulis" />
+        <meta name="twitter:image" content="https://cdn.idntimes.com/content-images/post/20220922/laspel-0bd915a277fa7c7dda0d28f8de53b307_wm_600x315.jpg" />
+
+        <!-- Open Graph data -->
+        <meta property="fb:app_id" content="382695658587663" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi" />
+        <meta property="og:title" content="Resensi Novel Laskar Pelangi Karya Andrea Hirata" />
+        <meta property="og:image" content="https://cdn.idntimes.com/content-images/post/20220922/laspel-0bd915a277fa7c7dda0d28f8de53b307_wm_600x315.jpg" />
+        <meta property="og:description" content="Terinspirasi dari kisah nyata sang penulis" />
+        <meta property="og:site_name" content="IDN Times" />
+        <meta property="og:image:width" content="600" />
+        <meta property="og:image:height" content="400" />
+        <meta property="og:image:alt" content="Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/quickcount.css" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/ramadhan.css" />
+                    <link rel="preload" as="image" href="https://cdn.idntimes.com/content-images/post/20220922/laspel-0bd915a277fa7c7dda0d28f8de53b307_600x400.jpg">
+        
+        <!-- Dailymotion -->
+        <meta name="dailymotion-domain-verification" content="dmaejkm32fmwiqbjb" />
+
+                            
+                    <!-- Facebook -->
+            <meta property="al:ios:url" content="idnapp://article/life/inspiration/seo-intern/resensi-novel-laskar-pelangi" />
+            <meta property="al:ios:app_store_id" content="1035533846" />
+            <meta property="al:ios:app_name" content="idnapp" />
+            <meta property="al:android:url" content="idnapp://article/life/inspiration/seo-intern/resensi-novel-laskar-pelangi" />
+            <meta property="al:android:app_name" content="idnapp" />
+            <meta property="al:android:package" content="com.idntimes.idntimes" />
+            <meta property="al:web:url" content="https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi" />
+            
+        <link rel="manifest" href="/manifest.json" />
+    <!--
+    {/* upgrade http request to https if possible */}
+    {/* <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" /> */}
+-->
+<link rel="apple-touch-icon" href="/assets/img/icons/touch-icon-ios_60.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/icons/touch-icon-ios_76.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/icons/touch-icon-ios_120.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/icons/touch-icon-ios_152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icons/touch-icon-ios_180.png" />
+<link rel="apple-touch-startup-image" href="/assets/img/icons/startup.png" />
+<link rel="android-touch-icon" type="image/png" href="/assets/img/icons/new-icon.png" />
+<link rel="shortcut icon" type="image/png" sizes="196x196" href="/assets/img/icons/touch-icon-android.png" />
+<link rel="shortcut icon" type="image/png" href="/favicon.png" />
+
+<link rel="stylesheet" href="/assets/css/desktop.css" />
+
+
+    <style>
+        .loading-ads{position:relative;overflow:hidden;background:#eee;opacity:.9;margin:0px auto}
+        .loading-ads::before{content:"";background:url("https://www.idntimes.com/assets/img/ads/ad-icon.png");background-size:20px 20px;background-repeat:no-repeat;width:20px;height:20px;position:absolute;top:50%;left:50%;transform :translate(-50%,-50%);z-index:-1}
+        .loading-ads::after{content:"";background:url("https://www.idntimes.com/assets/img/ads/ad-loading.gif");background-size:100% 2px;background-repeat:no-repeat;height:2px;width:100%;position:absolute;left:0px;top:0px;z-index:-1}
+
+		.blur-up {
+			-webkit-filter: blur(5px);
+			filter: blur(5px);
+			transition: filter 400ms, -webkit-filter 400ms;
+		}
+
+		.blur-up.lazyloaded {
+			-webkit-filter: blur(0);
+			filter: blur(0);
+		}
+	</style>
+            <link rel="stylesheet" href="/assets/plugins/lazyYT/lazyYT.min.css" />
+
+		                        <script>
+if(window.isAllowAddressByRegion){
+    document.write('<script src="https://ad.crwdcntrl.net/5/c=13396/pe=y/var=ccauds" type="text/javascript"><\/script>');
+}
+</script>
+
+<script type="text/javascript">
+    function getLotameAudience(){
+        var dartCC = "";
+        if (typeof (ccauds) != 'undefined') {
+            for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
+                if (cci > 0) dartCC += ",";
+                dartCC += ccauds.Profile.Audiences.Audience[cci].abbr;
+            }
+        }
+        return [dartCC];
+    }
+</script>
+
+<!-- Dynamic Provisioning - Magnite -->
+<script async src="//micro.rubiconproject.com/prebid/dynamic/22166.js"></script>
+
+<!-- GPT Tag-->
+<script async src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>
+    var gptadslots = [];
+    window.googletag = window.googletag || {cmd: []};
+
+    // initialize pbjs
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+
+    gpt_slot_objects = [];
+
+            var topic = [
+                            'laskar pelangi',
+                            'andrea hirata',
+                            'novel',
+                            'resensi buku',
+                            'Educate me',
+                            'buku novel',
+                    ];
+    
+googletag.cmd.push(function(){
+    gpt_leaderboard = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[970,90],[970,250],[728,90]], 'div-gpt-ad-leaderboard_top')
+            .setTargeting('pos', ['leaderboard_top'])
+            .addService(googletag.pubads());
+
+    gpt_mr1 = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[300,250],[300,600],[336,280]], 'div-gpt-ad-rectangle')
+            .setTargeting('pos', ['rectangle'])
+            .addService(googletag.pubads());
+
+    gpt_mr2 = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[300,250],[300,600],[336,280]], 'div-gpt-ad-billboard_vertical')
+            .setTargeting('pos', ['billboard_vertical'])
+            .addService(googletag.pubads());
+
+    gpt_inarticle1 = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[728,90]], 'div-gpt-ad-inarticle1')
+            .setTargeting('pos', ['inarticle1'])
+            .addService(googletag.pubads());
+
+    gpt_inarticle2 = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[728,90]], 'div-gpt-ad-inarticle2')
+            .setTargeting('pos', ['inarticle2'])
+            .addService(googletag.pubads());
+
+    gpt_inarticle3 = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[728,90]], 'div-gpt-ad-inarticle3')
+            .setTargeting('pos', ['inarticle3'])
+            .addService(googletag.pubads());
+
+    gpt_skinleft = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[120,600],[90,600],[160,600]], 'div-gpt-ad-skin_left')
+            .setTargeting('pos', ['skin_left'])
+            .addService(googletag.pubads());
+
+    gpt_skinright = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[120,600],[90,600],[160,600]], 'div-gpt-ad-skin_right')
+            .setTargeting('pos', ['skin_right'])
+            .addService(googletag.pubads());
+
+    gpt_sticky = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[728,90]], 'div-gpt-ad-sticky_bottom')
+            .setTargeting('pos', ['sticky_bottom'])
+            .addService(googletag.pubads());
+   
+    gpt_ct1 = googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[1,1]], 'div-gpt-ad-custom1')
+            .setTargeting('pos', ['custom1'])
+            .addService(googletag.pubads());
+   
+    gpt_ct2 =  googletag.defineSlot('/253109699/IDNTimesDesktop/Life', [[1,1]], 'div-gpt-ad-custom2')
+            .setTargeting('pos', ['custom2'])
+            .addService(googletag.pubads());
+
+    gpt_oop = googletag.defineOutOfPageSlot('/253109699/IDNTimesDesktop/Life', 'div-gpt-ad-oop1')
+            .setTargeting('pos', ['oop1'])
+            .addService(googletag.pubads());
+
+    gpt_interstitial = googletag.defineOutOfPageSlot('/253109699/IDNTimesDesktop/Interstitial',
+                googletag.enums.OutOfPageFormat.INTERSTITIAL)
+                .addService(googletag.pubads());
+                
+    gpt_slot_objects.push(gpt_leaderboard, gpt_mr1, gpt_mr2, gpt_skinleft, gpt_skinright, gpt_inarticle1,
+            gpt_inarticle2, gpt_inarticle3, gpt_sticky, gpt_ct1, gpt_ct2, gpt_oop, gpt_interstitial);
+           
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(true);
+    googletag.pubads().setTargeting('page_type', ['article']);
+    googletag.pubads().setTargeting('topic', [topic]);
+    if(window.isAllowAddressByRegion){
+        googletag.pubads().setTargeting('lotameAudience', getLotameAudience());
+    }
+    googletag.pubads().addEventListener('slotOnload', function (event) {
+        $("#"+event.slot.getSlotElementId()).removeClass("loading-ads");
+    });
+    googletag.pubads().addEventListener('slotRenderEnded', function(event){var slot_id = event.slot.getSlotElementId();
+        if (slot_id == 'div-gpt-ad-sticky_bottom'){if (!event.isEmpty){$('.bottom-sticky-ads').css({ 'display': 'block' });}}
+    });
+
+    googletag.enableServices();
+
+    // function that calls the ad-server
+    function callAdserver(gptSlots) {
+        if (pbjs.adserverCalled) return;
+        pbjs.adserverCalled = true;
+        googletag.pubads().refresh(gptSlots);
+    }
+
+    // request pbjs bids when it loads
+    pbjs.que.push(function() {
+        pbjs.rp.requestBids({
+            callback: callAdserver,
+                gptSlotObjects: gpt_slot_objects
+        });
+    });
+
+    // failsafe in case PBJS doesn't load
+    setTimeout(function() {
+        callAdserver(gpt_slot_objects);
+        }, 3500);
+    });
+</script>
+<!--End Tag Ad-->
+            
+        <script src="/assets/js/vendor.js"></script> 
+
+<script type="text/javascript">
+    var articleListUrl, nextArticleUrl;
+    var killAjax = false;
+    var baseUrl = "https://www.idntimes.com";
+    var jscrollOptions = {
+        loadingHtml: '<center><i class="fa fa-2x fa-spin fa-spinner"></i></center>',
+        padding: 50,
+        refresh: true
+    };
+</script>
+
+<!-- Begin Insider -->
+<!-- <script async src="//idntimesid.api.useinsider.com/ins.js?id=10003098"></script> -->
+<!-- End Insider -->
+
+<!-- Start Social Profile Link -->
+<script type="application/ld+json">
+    {
+        "@context" : "https://schema.org",
+        "@type" : "Organization",
+        "name" : "IDN Times",
+        "url" : "https://www.idntimes.com",
+        "logo": "https://www.idntimes.com/assets/img/logo.png",
+        "sameAs" : [
+            "https://www.facebook.com/idntimes",
+            "https://twitter.com/idntimes",
+            "https://plus.google.com/+IDNtimescom",
+            "https://www.instagram.com/idntimes/",
+            "https://www.youtube.com/channel/UCMcqmnF-uCBFzQ3NvmaELCg",
+            "https://www.linkedin.com/company/idntimes-com"
+        ]
+    }
+    </script>
+<!-- End Social Profile Link -->
+
+
+
+<!-- START USER ID ANALYTICS -->
+
+<script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        'event' : 'userInfo',
+        'userId': '0',
+        'interests': 'na',
+        'postSubmitted': '0',
+        'postApproved': '0'
+    });
+</script>
+<!-- END USER ID ANALYTICS -->
+
+    		<script>
+            var topics = [];
+            var authorStatus = '';
+
+                            topics.push('laskar pelangi');
+                            topics.push('andrea hirata');
+                            topics.push('novel');
+                            topics.push('resensi buku');
+                            topics.push('educate me');
+                            topics.push('buku novel');
+            
+                            authorStatus = 'verified'
+            
+			window.dataLayer.push({
+				'event' : 'contentGroup',
+				'category': 'life',
+				'subCategory': 'inspiration',
+				'pageType': 'article page',
+			});
+
+            window.dataLayer.push({
+                'event': 'articleInfo',
+                'authorName': 'Bella Manoban',
+                'authorStatus': authorStatus,
+                'editorName': 'Seo Intern IDN Times',
+                'topics': topics.join(),
+                'publishedDate': '03 Oktober 2022 '
+            });
+		</script>
+
+        	
+<!-- Page hiding snippet (recommended) -->
+    <style>.async-hide​ { ​opacity​: ​0​​!important​}</style>
+    <script>
+        (function(a,s,y,n,c,h,i,d,e){
+            s.className+=' '+y;
+            h.end=i=function(){
+                s.className=s.className.replace(RegExp(​' ?'​+y),​''​)
+            };
+            (a[n]=a[n]||[]).hide=h;
+            setTimeout(function(){i();h.end=null},c);
+        })
+        (​window​,​document​.documentElement,​'async-hide'​,​'dataLayer'​,​4000​,{​'GTM-P84KQM'​:true​});
+    </script>
+<!-- End of Page hiding snippet -->
+<!-- Google Tag Manager -->
+<!-- GTM tidak diinit saat ada diregion canada atau continent europe
+     Sesuai documentasi dari lotame https://docs.google.com/document/d/17jAPhn9TP5VFjsleJjlxApmNTeQqAj349jeUb44njs8/edit# kalo variable cc_ajax.js harus tidak muncul saat di region canada dan europe
+     variable cc_ajax.js muncul karena inisitor dari gtm.js
+-->
+<script>
+    if(window.isAllowAddressByRegion){
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P84KQM');
+    }
+</script>
+
+<!-- End Google Tag Manager -->
+
+<!-- Start FB Js SDK -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=382695658587663";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End FB Js SDK -->
+
+<!-- Start Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1697620290477743');
+fbq('track', 'PageView');
+fbq('track', 'ViewContent');
+</script>
+<noscript>
+<img height="1" width="1"
+src="https://www.facebook.com/tr?id=1697620290477743&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+            
+    
+    <script async defer src="//www.instagram.com/embed.js"></script>
+    
+    <script async defer src="//platform.twitter.com/widgets.js"></script>
+
+            <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "WebPage",
+                "headline": "Resensi Novel Laskar Pelangi Karya Andrea Hirata",
+                "url": "https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi",
+                "datePublished": "2022-10-03T15:01:00+07:00",
+                "image": "https://cdn.idntimes.com/content-images/post/20220922/laspel-0bd915a277fa7c7dda0d28f8de53b307_600x400.jpg",
+                "thumbnailUrl": "https://cdn.idntimes.com/content-images/post/20220922/laspel-0bd915a277fa7c7dda0d28f8de53b307_600x400.jpg"
+            }
+        </script>
+        <!-- START RICH SNIPPETS FOR ARTICLES -->
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "NewsArticle",
+                "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi"
+                },
+                "headline": "Resensi Novel Laskar Pelangi Karya Andrea Hirata",
+                "image": {
+                    "@type": "ImageObject",
+                    "url": "https://cdn.idntimes.com/content-images/post/20220922/laspel-0bd915a277fa7c7dda0d28f8de53b307_600x400.jpg",
+                    "height": 800,
+                    "width": 1200
+                },
+                "datePublished": "2022-10-03T15:01:00+07:00",
+                "dateModified": "2023-07-04T18:34:41+07:00",
+                "author": {
+                    "@type": "Person",
+                    "name": "Bella Manoban",
+                    "url": "https://www.idntimes.com/seo-intern"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "IDN Times",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.idntimes.com/assets/img/logo.png",
+                        "width": 600,
+                        "height": 60
+                    }
+                },
+                "description": "Inilah resensi novel Laskar Pelangi yang menjadi karya pertama Andrea Hirata yang diterbitkan tahun 2005 oleh Bentang Pustaka."
+            }
+        </script>
+        <!-- END RICH SNIPPETS FOR ARTICLES -->
+
+        <!-- START BREADCRUMBS -->
+        <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.idntimes.com/life",
+                    "name": "Life"
+                }
+            },{
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.idntimes.com/life/inspiration",
+                    "name": "Inspiration"
+                }
+            }]
+        }
+        </script>
+        <!-- END BREADCRUMBS -->
+
+        
+        </head>
+
+    <body id="idntimes-desktop" class="idntimes-desktop">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P84KQM"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+                    
+							<div class="skin-ads skin-ads--left" style="position: fixed; top: 452px; /*top: 65%*/; transform: translateY(-50%); right: calc(50% + 555px); z-index: 21; text-align: center;">
+	<div id="div-gpt-ad-skin_left" class="loading-ads" data-spotx_embed_element_id="div-gpt-ad-skin_left" style="margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-skin_left'); });
+        </script>
+    </div>
+</div>				<div class="skin-ads skin-ads--right" style="position: fixed; top: 452px; /*top: 65%*/; transform: translateY(-50%); left: calc(50% + 555px); z-index: 21; text-align: center;">
+	<div id="div-gpt-ad-skin_right" class="loading-ads" data-spotx_embed_element_id="div-gpt-ad-skin_right" style="margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-skin_right'); });
+        </script>
+    </div>
+</div>			        
+        
+                    <header id="header" class="clearfix nav-up">
+    <div class="top-header border-bottom-gradient-grey clearfix">
+        <div class="wrapper">
+            <div class="container">
+                <div class="header-box1 clearfix">
+                    <div class="header-logo" data-testid="header-logo">
+                        <a href="https://www.idntimes.com" data-testid="header-logo-link">
+                            <img data-testid="header-logo-img" src="/assets/img/idntimes.png" alt="IDN Times">
+                        </a>
+                    </div>
+                    <div id="component-account" data-url-account-status="https://www.idntimes.com/ajax/account/status">
+                        <li class="skeleton__list">
+  <div class="skeleton-media__body">
+      <div class="pull-right mb-4">
+          <span class="mr-5">
+              <span class="skeleton-box" style="width: 40px; height: 40px "></span>          </span>
+          <span class="skeleton-box" style="width: 200px; height: 40px "></span>      </div>
+  </div>
+</li>                        <!-- Navbar Top - Component Account -->
+                    </div>
+                </div>
+
+                <div class="header-box2 clearfix">
+    <nav class="header-navbar" role="navigation" data-testid="header-navbar">
+        <ul class="navigation">
+            
+            
+            <li data-testid="menu-quiz" class="">
+                <a data-testid="menu-quiz-link" href="https://www.idntimes.com/quiz">Quiz <img data-testid="menu-quiz-img" src="/assets/img/icons/ribbon_quiz.png" srcset="/assets/img/icons/ribbon_quiz.svg" alt="Icon New" /></a>
+            </li>
+            <li data-testid="menu-news" class=" ">
+                <a data-testid="menu-news-link" href="https://www.idntimes.com/news">News</a>
+            </li>
+            <li data-testid="menu-business" class="">
+                <a data-testid="menu-business-link" href="https://www.idntimes.com/business">Business</a>
+            </li>
+            <li data-testid="menu-sport" class="">
+                <a data-testid="menu-sport-link" href="https://www.idntimes.com/sport">Sport</a>
+            </li>
+            
+            <li data-testid="menu-tech" class=" ">
+                <a data-testid="menu-tech-link" href="https://www.idntimes.com/tech">Tech</a>
+            </li>
+            <li data-testid="menu-hype" class=" ">
+                <a data-testid="menu-hype-link" href="https://www.idntimes.com/hype">Hype</a>
+            </li>
+            <li data-testid="menu-korea" class=" ">
+                <a data-testid="menu-korea-link" href="https://www.idntimes.com/korea">Korea</a>
+            </li>
+            <li data-testid="menu-life" class=" active">
+                <a data-testid="menu-life-link" href="https://www.idntimes.com/life">Life</a>
+            </li>
+            <li data-testid="menu-health-link" class="">
+                <a data-testid="menu-health" href="https://www.idntimes.com/health">Health</a>
+            </li>
+            
+            <li data-testid="menu-community" class="">
+                <a
+                    data-testid="menu-community-link"
+                    href="https://community.idntimes.com">
+                    Community
+                </a>
+            </li>
+            <li class="dropdown-menu-list-header" data-testid="menu-regional">
+                <a href="#" tabindex="-1" class="dropdown-icon-corner">Regional &nbsp;<i
+                        class="fa fa-caret-down"></i></a>
+                <div class="dropdown-submenu-header" data-testid="submenu-regional" >
+                    <div class="submenu-box clearfix">
+                        <p class="title-submenu">Regional</p>
+                                                <ul class="dropdown-menu-regional clearfix" data-testid="list-submenu-regional">
+                                                            <li data-testid="menu-home" class="">
+                                    <a data-testid="link-menu-home" href="https://www.idntimes.com">IDN Times</a>
+                                </li>
+                                                            <li data-testid="menu-jabar" class="">
+                                    <a data-testid="link-menu-jabar" href="https://jabar.idntimes.com">Jawa Barat</a>
+                                </li>
+                                                            <li data-testid="menu-banten" class="">
+                                    <a data-testid="link-menu-banten" href="https://banten.idntimes.com">Banten</a>
+                                </li>
+                                                            <li data-testid="menu-jateng" class="">
+                                    <a data-testid="link-menu-jateng" href="https://jateng.idntimes.com">Jawa Tengah</a>
+                                </li>
+                                                            <li data-testid="menu-jogja" class="">
+                                    <a data-testid="link-menu-jogja" href="https://jogja.idntimes.com">Jogja</a>
+                                </li>
+                                                            <li data-testid="menu-jatim" class="">
+                                    <a data-testid="link-menu-jatim" href="https://jatim.idntimes.com">Jawa Timur</a>
+                                </li>
+                                                            <li data-testid="menu-bali" class="">
+                                    <a data-testid="link-menu-bali" href="https://bali.idntimes.com">Bali</a>
+                                </li>
+                                                            <li data-testid="menu-sumut" class="">
+                                    <a data-testid="link-menu-sumut" href="https://sumut.idntimes.com">Sumatera Utara</a>
+                                </li>
+                                                            <li data-testid="menu-sulsel" class="">
+                                    <a data-testid="link-menu-sulsel" href="https://sulsel.idntimes.com">Sulawesi Selatan</a>
+                                </li>
+                                                            <li data-testid="menu-kaltim" class="">
+                                    <a data-testid="link-menu-kaltim" href="https://kaltim.idntimes.com">Kalimantan Timur</a>
+                                </li>
+                                                            <li data-testid="menu-sumsel" class="">
+                                    <a data-testid="link-menu-sumsel" href="https://sumsel.idntimes.com">Sumatera Selatan</a>
+                                </li>
+                                                            <li data-testid="menu-lampung" class="">
+                                    <a data-testid="link-menu-lampung" href="https://lampung.idntimes.com">Lampung</a>
+                                </li>
+                                                            <li data-testid="menu-ntb" class="">
+                                    <a data-testid="link-menu-ntb" href="https://ntb.idntimes.com">NTB</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                        <li
+                data-testid="menu-others"
+                class="dropdown-menu-list-header
+                                    ">
+                <a href="#" tabindex="-1" class="dropdown-icon-corner">
+                    Lainnya &nbsp;<i class="fa fa-caret-down"></i>
+                </a>
+                <div data-testid="dropdown-submenu-more" class="dropdown-submenu-header dropdown-submenu-more">
+                    <div class="submenu-box clearfix">
+                        <div data-testid="dropdown-menu-cat" class="col-xs-6 dropdown-menu-cat">
+                            <p class="title-submenu">Kategori</p>
+                            <ul>
+                                <li
+                                    data-testid="menu-cat-qna"
+                                    class=" ">
+                                    <a href="https://tanyajawab.idntimes.com">Tanya Jawab</a>
+                                </li>
+                                <li
+                                    data-testid="menu-cat-automotive"
+                                    class=" ">
+                                    <a href="https://www.idntimes.com/automotive">Automotive</a>
+                                </li>
+                                <li
+                                    data-testid="menu-cat-science"
+                                    class="">
+                                    <a href="https://www.idntimes.com/science">Science</a>
+                                </li>
+                                <li
+                                    data-testid="menu-cat-men"
+                                    class="">
+                                    <a href="https://www.idntimes.com/men">Men</a>
+                                </li>
+                                <li
+                                    data-testid="menu-cat-food"
+                                    class="">
+                                    <a href="https://www.idntimes.com/food">Food</a>
+                                </li>
+                                <li
+                                    data-testid="menu-cat-opinion"
+                                    class="">
+                                    <a href="https://www.idntimes.com/opinion">Opinion</a>
+                                </li>
+                                <li
+                                    data-testid="menu-cat-fiction"
+                                    class="">
+                                    <a href="https://www.idntimes.com/fiction">Fiction</a>
+                                </li>
+                                <li
+                                    data-testid="menu-cat-index"
+                                    class="">
+                                    <a href="https://www.idntimes.com/index">Index</a>
+                                </li>
+                                <li
+                                    data-testid="menu-cat-travel"
+                                    class="">
+                                    <a href="https://www.idntimes.com/travel">Travel</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div data-testid="dropdown-menu-campaign" class="col-xs-6 dropdown-menu-campaign">
+                            <p class="title-submenu">Event</p>
+                            <ul>
+                                                                    <li data-testid="menu-event1" class="">
+                                        <a  href="https://www.ichoosemychoice.idntimes.com/">#COZIMMOVING</a>
+                                    </li>
+                                                                    <li data-testid="menu-event2" class="">
+                                        <a  href="https://1000aspirasiindonesiamuda.idntimes.com">#1000ASPIRASIINDONESIAMUDA</a>
+                                    </li>
+                                                                    <li data-testid="menu-event3" class="">
+                                        <a  href="https://akuperempuan.idntimes.com">#AKUPEREMPUAN</a>
+                                    </li>
+                                                                    <li data-testid="menu-event4" class="">
+                                        <a  href="https://kitaidn.idntimes.com">#KITAIDN</a>
+                                    </li>
+                                                                    <li data-testid="menu-event5" class="">
+                                        <a  href="https://antipuasakuota.idntimes.com">#ANTIPUASAKUOTA</a>
+                                    </li>
+                                                                    <li data-testid="menu-event6" class="">
+                                        <a  href="https://liputankhusus.idntimes.com">#LIPUTANKHUSUS</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="download-box">
+                        <p>DOWNLOAD IDN APP SEKARANG!</p>
+                        <a href="https://click.idn.media/VKUf/ies2k7k7" target="_Blank">
+                            <img src="/assets/img/icons/app-download.png" alt="Icon Play Store" />
+                        </a>
+                        <a href="https://click.idn.media/VKUf/ies2k7k7" target="_Blank">
+                            <img src="/assets/img/icons/itunes-download.png" alt="Icon Itunes" />
+                        </a>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+            </div>
+        </div>
+    </div>
+
+    
+</header>
+
+
+
+        
+        <div class=" wrapper   general-content-wrapper  ">
+            <div class=" container  wrapper-content">
+                <div id="section-trending-tags" class="trending-tags">
+    <div id="skeleton-trending-tags" class="section__trending_tags">
+  <div class="title__section_trending">Topik Populer</div>
+  <div class="wrapper__trending_tag">
+      <ul class="trending_tag_list d-flex flex-row">
+                        <li>
+                <span class="skeleton-box" style="width: 100px; height: 34px "></span>              </li>
+                        <li>
+                <span class="skeleton-box" style="width: 100px; height: 34px "></span>              </li>
+                        <li>
+                <span class="skeleton-box" style="width: 100px; height: 34px "></span>              </li>
+                        <li>
+                <span class="skeleton-box" style="width: 100px; height: 34px "></span>              </li>
+                        <li>
+                <span class="skeleton-box" style="width: 100px; height: 34px "></span>              </li>
+                </ul>
+  </div>
+  <div class="wrapper__btn_scroll">
+      <a class="btn btn-default btn-circle disabled mr-5" href="javascript:;" id="scroll_left" role="button">
+          <i class="fa fa-chevron-left"></i>
+      </a>
+      <a class="btn btn-default btn-circle disabled" href="javascript:;" id="scroll_right" role="button">
+          <i class="fa fa-chevron-right"></i>
+      </a>
+  </div>
+</div></div>
+
+
+
+                <div id='div-gpt-ad-custom1' style="height: 0px;">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-custom1'); });
+        </script>
+    </div>
+    <div id='div-gpt-ad-custom2' style="height: 0px;">
+    </div>
+                                <div id='div-gpt-ad-oop1' style="height:0px;">
+    <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-oop1'); });
+    </script>
+</div>                
+                			<div class="leaderboard-ads" style="margin: 0 auto 20px; text-align: center;">
+    <div id='div-gpt-ad-leaderboard_top' class="loading-ads" data-spotx_embed_element_id="div-gpt-ad-leaderboard_top" style="width:970px; margin:0 auto;">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-leaderboard_top'); });
+        </script>
+    </div>
+</div>		<div class="bottom-sticky-ads">
+    <div class="bottom-sticky-ads__wrapper">
+        <div id='div-gpt-ad-sticky_bottom' class="loading-ads" data-spotx_embed_element_id="div-gpt-ad-sticky_bottom">
+            <script>
+                googletag.cmd.push(function(){googletag.display('div-gpt-ad-sticky_bottom'); });
+            </script>
+        </div>
+    </div>
+</div>
+
+	
+    <div id="article-page" class="article-content general-content  ">
+        
+        <ol class="breadcrumb">
+                            <li><a href="https://www.idntimes.com">Home</a></li>
+                <li>
+                    <a href="/life">Life</a>
+                </li>
+                <li>
+                    <a href="/life/inspiration">Inspiration</a>
+                </li>
+                <li class="active">Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia</li>
+                <li class="gimmick">
+                    <time class="date" datetime="03 Oct 22 | 15:01">
+                        
+                        03 Oct 22 | 15:01
+                    </time>
+                </li>
+                    </ol>
+        
+        
+        <div class="left-content content-insights">
+            
+            <section class="content-post clearfix">
+				<div data-io-article-url="https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi">
+					<h1 class="title-text">Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia</h1>
+					<div class="excerpt">
+						Terinspirasi dari kisah nyata sang penulis
+					</div>
+					<div class="featured-image">
+						<img src="https://www.idntimes.com/assets/img/placeholder.png" data-src="https://cdn.idntimes.com/content-images/post/20220922/laspel-0bd915a277fa7c7dda0d28f8de53b307_600x400.jpg" class="full-width lazyload" alt="Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia" onError="this.onerror=null;this.src='https://www.idntimes.com/assets/img/errors/asset-img-broken.png';">
+													<span>novel Laskar Pelangi (id.wikipedia.org)</span>
+						                    </div>
+
+                    
+					<div class="box-information">
+						<div class="author divide-table">
+							<div class="author-image divide-table-cell">
+								
+								<a href="https://www.idntimes.com/seo-intern">
+									<img src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idntimes.com/content-images/avatar/seo-intern_100x100.png?v=d41d8cd98f00b204e9800998ecf8427e" alt="Bella Manoban" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';" class="lazyload">
+								</a>
+							</div>
+							<div class="author-name divide-table-cell">
+								<div>
+                                                                            <span class="text-blue">
+                                            Verified
+                                        </span>
+                                    								</div>
+                                <a href="https://www.idntimes.com/seo-intern">
+                                    Bella Manoban
+                                                                                                                            <img class="author__badge" src="https://www.idntimes.com/assets/img/badge/user-verified/label-user-verified.png" alt="Verified">
+                                                                                                                    </a>
+							</div>
+													</div>
+
+                                                    <div class="share divide-table">
+                                <div class="share-box divide-table-cell">
+                                    
+                                    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.idntimes.com%2Flife%2Finspiration%2Fseo-intern%2Fresensi-novel-laskar-pelangi" title="Share Facebook" data-title="facebook" class="share-facebook" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i> Share to Facebook</a>
+                                    <a href="https://twitter.com/intent/tweet?url=https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi&text=Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia&via=idntimes&related=idntimes" title="Share Twitter" data-title="twitter" class="share-twitter" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i> Share to Twitter</a>
+                                </div>
+                                                                <div class="share-role  divide-table-cell">
+                                    
+                                                                    </div>
+                                                            </div>
+                                            </div>
+
+					<article id="article-content" class="content-post-description">
+						
+                        <div class="wrapper-ads inarticle-ads-wrapper"> 	<div class="inarticle-ads">         <div id="div-gpt-ad-inarticle1" class="loading-ads loading-ads1" style="width: 728px; max-width: 100%; margin: 0px auto; text-align: center;">             <script>
+                googletag.cmd.push(function() { googletag.display(div-gpt-ad-inarticle1); });
+            </script>         </div>     </div> </div><p><em>Laskar Pelangi&nbsp;</em>merupakan novel pertama karya Andrea Hirata yang diterbitkan tahun 2005 oleh Bentang Pustaka. Mendulang kesuksesan, novel ini pun akhirnya dijadikan sebuah film dengan judul yang sama pada tahun 2008.</p><p><a title="Novel" href="https://www.idntimes.com/life/education/essi-rosilawati/rekomendasi-novel-sejuta-umat-c1c2" target="_blank" rel="noopener">Novel</a> ini berhasil menyabet banyak pencapaian dan jadi bentuk kesuksesan dunia sastra. Buku yang ditulis Andrea Hirata ini, jadi salah satu <em>International Best Seller, </em>diterjemahkan ke dalam 40 bahasa asing, terbit dalam 22 bahasa, dan beredar lebih dari 130 negara.</p><p>Ingin baca bukunya? Sebelum itu, yuk, simak <strong>resensi novel&nbsp;<em>Laskar Pelangi&nbsp;</em></strong>di bawah ini terlebih dahulu sebelum membacanya!</p><div class='show-page' target='1'></div><div class='split-page split-page1 open' data-target='1'><style type="">.dm-player {
+                            margin-bottom: 1em; } #dailymotion-pip-large-viewport {
+                            --position-right: 80px;
+                            --position-bottom: 120px;} #dailymotion-pip-small-viewport {
+                            --position-bottom: 35px;}</style><div class="dm-player" playerId="x1oh2" sort="relevance,random" keywordsSelector="title" owners="IDNMedia" referrerpolicy="no-referrer-when-downgrade" mute="true"></div><script src="https://srvr.dmvs-apac.com/v2/dm-ce.min.js"></script><h2>1. Identitas dan sinopsis novel Laskar Pelangi</h2><div class="embed-image"><img class="lazyload" src="/assets/img/placeholder.png" data-src="https://cdn.idntimes.com/content-images/community/2022/07/tips-membaca-buku-berbahasa-inggris-bagi-pemula-tips-membaca-buku-bahasa-inggris-mudah-gak-perlu-buru-buru-tergesa-merampungkan-buku-berbahasa-inggris-9cde86371d7fc78c91ae80a6ffab250e-5d9d3c2c243b344cc9307544f09050b6.jpg" alt="Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia" onerror="this.onerror=null;this.src='https://idntimes.com/assets/img/errors/asset-img-broken.png'" /><span class="main-article-source">ilustrasi membaca buku  (pexels.com/cottonbro)</span></div><p><strong>Judul buku:</strong> Laskar Pelangi<strong><br />Penulis: </strong>Andrea Hirata<strong><br />Negara: </strong>Indonesia<strong><br />Bahasa: </strong>Indonesia<strong><br />Genre: </strong>Roman<strong><br />Penerbit: </strong>Bentang Pustaka, Yogyakarta<strong><br />Tahun terbit: </strong>2005<strong><br />Halaman: </strong>529 halaman<strong><br />ISBN:</strong>&nbsp;979-3062-79-7</p><p><strong>Sinopsis</strong></p><p><em>Laskar Pelangi&nbsp;</em>bercerita soal 10 anak yang miskin, namun punya rasa semangat tinggi dalam pendidikan yang berlatarkan di sebuah Desa Gantung, <a title="Kepulauan Bangka Belitung" href="https://www.idntimes.com/travel/destination/windy-lestari/wisata-alam-di-bangka-belitung-c1c2" target="_blank" rel="noopener">Kepulauan Bangka Belitung</a>, Belitung Timur. Kebanyakan dari mereka adalah anak dari penambang emas di pulau yang punya kekayaan alam timah terbesar di dunia.</p><p>Ke-10 anak itu bersekolah di Sekolah Dasar Muhammadiyah yang dipimpin oleh Pak Harfan. Awalnya, sekolah tersebut hendak dibubarkan lantaran muridnya hanya berjumlah 9 orang, tak mencapai syarat yang ditentukan. Bahkan, pemerintah setempat telah memberikan peringatan kepada pihak sekolah Islam itu tentang perencanaan penutupan sekolah.</p><p>Kisah Laskar Pelangi dan SD Muhammadiyah dimulai sejak Harun datang dan menyelamatkan rasa putus asa Pak Harfan dan Bu Muslimah. Pasalnya, Harun menjadi murid ke-10 SD Muhammadiyah dan sekolah pun tidak jadi ditutup oleh pemerintah.</p><p>Dalam novel ini, kalian akan ikut perjalanan hidup ke-10 anggota Laskar Pelangi saat menjadi murid SD Muhammadiyah Gantung. Berbagai emosi pun akan kamu rasakan melalui novel ini, dimulai dari bahagia, dramatis, tawa, hingga rasa haru.</p><div class="wrapper-ads inarticle-ads-wrapper"> 	<div class="inarticle-ads">         <div id="div-gpt-ad-inarticle2" class="loading-ads" style="width: 728px; max-width: 100%; margin: 0px auto; text-align: center;">             <script>
+                googletag.cmd.push(function() { googletag.display(div-gpt-ad-inarticle2); });
+            </script>         </div>     </div> </div></div><div class='show-page hide' target='2'></div><div class='split-page split-page2' data-target='2'><h2>2. Penokohan dalam Laskar Pelangi</h2><div class="embed-image"><img class="lazyload" src="/assets/img/placeholder.png" data-src="https://cdn.idntimes.com/content-images/post/20211125/mv5bzdrmotc2ntytzwjkns00nje4lwjlotmtmze5yzuwmgexmmvil2ltywdlxkeyxkfqcgdeqxvymzmznjk0ntc-at-v1-e21a1d7e8c1c0bf00af87adb097a8290.jpg" alt="Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia" onerror="this.onerror=null;this.src='https://idntimes.com/assets/img/errors/asset-img-broken.png'" /><span class="main-article-source">cuplikan film Laskar Pelangi (dok.  Miles Films/Laskar Pelangi)</span></div><p><strong>1. Ikal</strong></p><p>Dalam novel ini, Ikal diceritakan sebagai tokoh yang pintar setelah Lintang di antara teman-temannya. Ia punya minat tinggi dalam bidang sastra yang ditunjukkan dengan kegemarannya menulis puisi.</p><p>Tak hanya itu, Ikal menyukai gadis yang bernama A Ling, sepupu A Kiong, yang ia temui di toko kelontong Sinar Harapan. Namun, mereka harus berpisah lantaran A Ling harus pergi ke Jakarta untuk menemani sang bibi.</p><p><strong>2. Lintang</strong></p><p>Lintang adalah teman sebangku Ikal dan memiliki ayah yang berprofesi sebagai nelayan miskin. Akan tetapi, sang ayah harus menanggung beban untuk menafkahi 14 orang.</p><p>Dalam soal pendidikan, Lintang digambarkan sebagai anak yang genius, terutama dalam bidang matematika. Hal itu terlihat pada kepintaran otaknya yang berhasil mengantarkan tim SD Muhammadiyah, sekolahnya, menjadi juara dalam kompetisi cerdas cermat.</p><p>Cita-cita Lintang adalah menjadi seseorang yang ahli dalam bidang matematika. Namun, karena ayahnya meninggal dunia, ia harus mengubur dalam cita-citanya itu. Ia harus menggantikan posisi sang ayah untuk menafkahi keluarganya.</p><p><strong>3. Mahar</strong></p><p>Mahar digambarkan sebagai anak yang tampan, berbadan kurus, dan punya bakat dalam bidang seni. Hal itu dibuktikan ketika Bu Muslimah, guru mereka, meminta Mahar untuk bernyanyi di depan kelas. Tak hanya itu, Mahar juga sangat suka dengan ilmu sihir sampai sering diledeki oleh teman-temannya.</p><p><strong>4. Sahara</strong></p><p>Sahara menjadi satu-satunya perempuan di antara anak-anak SD Muhammadiyah. Perempuan ini digambarkan sebagai sosok yang keras kepala, punya pendirian kuat, dan taat pada agama. Meskipun begitu, Sahara merupakan gadis yang pandai, baik, dan ramah kepada siapa pun, kecuali A Kiong.</p><p><strong>5. Syahdan</strong></p><p>Ia Ttdak pernah menonjol dan kerap jadi tokoh yang tersisihkan dalam keadaan apa pun. Padahal, Syahdan termasuk anak yang ceria. Ia punya cita-cita sebagai aktor. Hal itu ia tunjukkan melalui sebuah drama dan ia mendapatkan peran sebagai tukang kipas putri walaupun ada kesalahan yang ia perbuat.</p><p>Berkat usaha kerasnya selama ini, Syahdan berhasil menjadi aktor sungguhan meskipun hanya sekadar peran tambahan. Namun, hal itu tak membuatnya puas. Ia akhirnya beralih profesi menjadi <em>network designer&nbsp;</em>yang sukses.</p><p><strong>6. A Kiong</strong></p><p>A Kiong merupakan anak Hokian keturunan Tionghoa dan menjadi pengikut nomor satu Mahar sejak kelas satu. Ia menganggap Mahar adalah master yang mulia.</p><p>Di samping itu, A Kiong punya jiwa persahabatan yang kuat, baik hati, dan senang membantu teman-temannya, kecuali Sahara. Lucunya, meskipun mereka sering bertengkar, A Kiong dan Sahara ternyata saling menyukai satu sama lain.</p><div class="embed-image"><img class="lazyload" src="/assets/img/placeholder.png" data-src="https://cdn.idntimes.com/content-images/community/2022/05/fromandroid-b5f8beda2c0ad8ff611d46f16935603c.jpg" alt="Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia" onerror="this.onerror=null;this.src='https://idntimes.com/assets/img/errors/asset-img-broken.png'" /><span class="main-article-source">Laskar Pelangi (dok. Miles Films/Laskar Pelangi)</span></div><div class="editors-pick">             <div class="title">                 <span>Lanjutkan membaca artikel di bawah</span>             </div>             <h3 class="title-editors-pick">Editor’s picks</h3>             <ul><li><a href="https://www.idntimes.com/life/inspiration/robertus-ari/zodiak-paling-untung-minggu-kelima-maret2023">5 Zodiak Paling Untung Minggu Kelima Maret 2023, Capricorn Ada Peluang</a></li><li><a href="https://www.idntimes.com/life/inspiration/klara-livia-silitonga/ramalan-zodiak-27-maret2023">Ramalan Zodiak 27 Maret 2023, Gemini Perlu Waspada Dimanipulasi </a></li><li><a href="https://www.idntimes.com/life/inspiration/muhammad-tarmizi-murdianto/kuis-ini-menggambarkan-sifat-dari-hati-yang-kamu-miliki-quiz">[QUIZ] Kuis Ini Menggambarkan Sifat dari Hati yang Kamu Miliki</a></li></ul>             </div><div>dm-player</div><p><strong>7. Kucai</strong></p><p>Di antara anak-anak Laskar Pelangi, Kucai adalah tokoh yang selalu dipercaya sebagai ketua kelas. Matanya mengalami rabun jauh yang diakibatkan oleh kekurangan gizi. Bahkan, penglihatannya meleset dari sasaran sekitar 20 derajat.</p><p>Sejak kecil, Kucai selalu terlihat sebagai seorang politikus. Hebatnya, hal itu terbukti saat ia dewasa yang menjadi ketua fraksi di DPRD Belitung.</p><p><strong>8. Borek</strong></p><p>Dalam&nbsp;Laskar Pelangi, Borek adalah pria besar yang tergila-gila dengan otot. Ia bercita-cita menjadi pria&nbsp;macho berotot. Saat dewasa, ia bekerja sebagai kuli di toko milik Sahara dan A Kiong.</p><p><strong>9. Trapani</strong></p><p>Trapani adalah tokoh yang berparas tampan, baik hati, dan sangat menyayangi ibunya. Apa pun yang ia lakukan, harus ditemani oleh sang ibu. Cita-cita anak ini adalah menjadi seorang guru.</p><p><strong>10. Harun</strong></p><p>Harun mempunyai keterbelakangan mental yang membuatnya mulai bersekolah ketika berusia 15 tahun. Hobinya adalah menanyakan hari libur Lebaran kepada Bu Muslimah, bahkan ia pernah menyetorkan tiga botol buah kecap saat pelajaran karyanya sendiri.</p><p>Salah satu hal yang lucu dari Harun adalah ia pernah bercerita kepada Sahara tentang kucingnya. Harun memiliki kucing belang tiga dan melahirkan tiga anak di tanggal tiga yang mana masing-masing punya belang tiga seperti induknya.</p><p><strong>11. Bu Muslimah</strong></p><p>Bernama lengkap N.A. Muslimah Hafsari, Bu Muslimah merupakan seorang guru di SD Muhammadiyah. Ia punya dedikasi tinggi terhadap pendidikan dan gigih saat mengajar, meskipun honornya belum dibayar. Guru satu ini sangat menyukai bunga dan terbuka dengan gagasan baru, serta guru yang sabar dengan anak-anak.</p><p><strong>12. Pak Harfan</strong></p><p>Pak Harfan memiliki nama lengkap K.A. Harfan Efendy Noor. Di novel ini, ia digambarkan sebagai sosok kepala sekolah dan guru SD Muhammadiyah. Bersama dengan Bu Muslimah, ia berhasil mempertahankan sekolah tersebut yang hampir ditutup akibat kekurangan murid.</p><p>         <a href="https://www.idntimes.com/life/education/seo-intern/resensi-buku" target="_blank">           <strong>             <em>Baca Juga: Resensi Buku: Tujuan hingga 6 Unsur Penting yang Wajib Ada!</em>           </strong>         </a>       </p></div><div class='show-page hide' target='3'></div><div class='split-page split-page3' data-target='3'><h2>3. Keunggulan novel Laskar Pelangi</h2><div class="embed-image"><img class="lazyload" src="/assets/img/placeholder.png" data-src="https://cdn.idntimes.com/content-images/community/2022/06/cara-atur-waktu-baca-buku-tip-sbaca-buku-goals-harian-baca-buku-kenapa-baca-buku-penting-setahun-harus-baca-buku-berapa-kali-9cde86371d7fc78c91ae80a6ffab250e-4be7c2109d71d84991a1cbf28147cfa4.jpeg" alt="Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia" onerror="this.onerror=null;this.src='https://idntimes.com/assets/img/errors/asset-img-broken.png'" /><span class="main-article-source">ilustrasi membaca buku (pexels.com/RF._.studio)</span></div><p>Kelebihan atau keunggulan dari novel&nbsp;<em>Laskar Pelangi&nbsp;</em>adalah bahasa yang digunakan sangat beragam dan unik. Tak hanya itu, Andrea Hirata juga mencoba untuk memberikan bumbu budaya dan aspek sosial dari masyarakat Melayu yang kemudian diaplikasikan secara gamblang di dalam dialog-dialognya.</p><p>Sang penulis lihai dalam membuat suatu cerita sedih menjadi humor yang layak untuk dijadikan bahan tawa di dalam novel. Hal itu ditunjukkan melalui dialog di antara tokoh-tokoh Laskar Pelangi dan masyarakat Belitung.</p><p>Novel&nbsp;<em>Laskar Pelangi&nbsp;</em>ini dianjurkan untuk dibaca oleh tenaga pendidik dan pemerintah yang menganggap remeh tentang pentingnya pendidikan. Pasalnya, negara ini kerap menerima ejekan atau sindiran dari negara lain karena punya sumber daya manusia yang kurang berkualitas.</p><p>Tak hanya itu, meskipun novel ini sudah lama diterbitkan, Andrea Hirata seakan menggambarkan masalah yang sangat relevan dengan Indonesia dan negara-negara di dunia. Ia menyinggung soal kemiskinan, pendidikan, kesenjangan sosial, dan sebagainya yang tak akan pernah selesai.</p></div><div class='show-page hide' target='4'></div><div class='split-page split-page4' data-target='4'><h2>4. Kelemahan dari novel Laskar Pelangi</h2><div class="embed-image"><img class="lazyload" src="/assets/img/placeholder.png" data-src="https://cdn.idntimes.com/content-images/community/2022/05/tips-menulis-tips-membuang-rasa-malas-menulis-cara-menulis-tips-membuat-tulisan-bagus-malas-menulis-menulis-seo-ide-menulis-dari-mana-9cde86371d7fc78c91ae80a6ffab250e-45644be404cae31975ee19449667e967.jpg" alt="Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia" onerror="this.onerror=null;this.src='https://idntimes.com/assets/img/errors/asset-img-broken.png'" /><span class="main-article-source">ilustrasi seseorang sedang menulis (Pexels.com/Judit Peter)</span></div><p>Kelemahan dari novel&nbsp;<em>Laskar Pelangi&nbsp;</em>adalah banyaknya istilah yang tidak familiar oleh pembaca, sehingga sulit untuk dipahami dan dimengerti meskipun terdapat kamus kecil di akhir buku. Namun, hal tersebut terkesan kurang praktis karena pembaca harus bolak-balik ke glosarium saat membaca istilah asing.</p><p>Tak hanya itu, di akhir cerita, tokoh "Aku" tiba-tiba berubah menjadi orang lain, padahal tokoh tersebut adalah Ikal. Lalu, ending cerita yang menggantung juga jadi salah satu yang membuat pembaca sedikit kecewa. Namun, penulis sepertinya sengaja karena cerita dalam novel ini dilanjutkan pada sekuel berikutnya.</p></div><div class='show-page hide' target='5'></div><div class='split-page split-page5' data-target='5'><h2>5. Kesimpulan dari novel Laskar Pelangi</h2><div class="embed-image"><img class="lazyload" src="/assets/img/placeholder.png" data-src="https://cdn.idntimes.com/content-images/post/20220922/pexels-andrea-piacquadio-3807755-5e1000df7570827a9317975477ae2db6.jpg" alt="Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia" onerror="this.onerror=null;this.src='https://idntimes.com/assets/img/errors/asset-img-broken.png'" /><span class="main-article-source">ilustrasi menulis kesimpulan (Pexels.com/Andrea Piacquadio)</span></div><p>Banyak sekali pesan yang bisa diambil novel&nbsp;<em>Laskar Pelangi&nbsp;</em>dan diterapkan dalam kehidupan. Misalnya, bersyukur kepada Tuhan, menghargai apa pun yang terjadi, dan tak mudah untuk menyerah dengan terus berusaha semaksimal mungkin.</p><p>Selain itu, perlu diingat bahwa takdir sudah berada di tangan Tuhan dan kepintaran bukan jadi tolak ukur kesuksesan seseorang. Misalnya, kita tahu bahwa Lintang adalah tokoh yang jenius, namun di akhir cerita ia menjadi sopir truk. Atau, Syahdan yang bercita-cita sebagai aktor, tetapi berakhir menjadi seorang <em>network designer&nbsp;</em>yang berhasil.</p><p>Itulah resensi novel&nbsp;<em>Laskar Pelangi&nbsp;</em>yang telah diulas. Bagaimana, apakah kamu semakin tertarik untuk membacanya? Jangan lupa untuk menonton filmnya juga, ya, supaya lebih afdol!</p><p>         <a href="https://bali.idntimes.com/life/inspiration/ema-endrawati/rekomendasi-novel-andrea-hirata-c1c2" target="_blank">           <strong>             <em>Baca Juga: 7 Rekomendasi Novel Andrea Hirata Selain Laskar Pelangi</em>           </strong>         </a>       </p><div class="wrapper-ads inarticle-ads-wrapper"> 	<div class="inarticle-ads"> 		<div id="div-gpt-ad-inarticle3" class="loading-ads" style="width: 728px; max-width: 100%; margin: 0px auto; text-align: center;"> 			<script>
+				googletag.cmd.push(function() { googletag.display(div-gpt-ad-inarticle3); });
+			</script> 		</div> 	</div> </div></div>
+
+                        
+                                                    <div class="read-more-btn-check mb-30">
+                                <div id="read-more2" class="read-more-btn2">
+    <a class="btn btn-lg" href="https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi?page=all"  onclick='trackerClicked("readmore", "https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi?page=all")' >
+        <span>Baca Artikel Selengkapnya</span>
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M10.8334 13.8217L15.2442 9.41087C15.4014 9.25908 15.6119 9.17508 15.8304 9.17698C16.0489 9.17888 16.2579 9.26652 16.4124 9.42103C16.5669 9.57553 16.6546 9.78454 16.6565 10.003C16.6584 10.2215 16.5744 10.432 16.4226 10.5892L10.5892 16.4225C10.4928 16.5193 10.374 16.5908 10.2434 16.6309C10.1717 16.6523 10.0974 16.6641 10.0226 16.6659H9.98173C9.90716 16.6641 9.83316 16.6523 9.76173 16.6309C9.63111 16.5908 9.51235 16.5193 9.41589 16.4225L3.58256 10.5892C3.43076 10.432 3.34677 10.2215 3.34866 10.003C3.35056 9.78454 3.4382 9.57553 3.59271 9.42103C3.74722 9.26652 3.95623 9.17888 4.17473 9.17698C4.39322 9.17508 4.60372 9.25908 4.76089 9.41087L9.16673 13.8217V4.16671C9.16673 3.94569 9.25452 3.73373 9.4108 3.57745C9.56708 3.42117 9.77905 3.33337 10.0001 3.33337C10.2211 3.33337 10.433 3.42117 10.5893 3.57745C10.7456 3.73373 10.8334 3.94569 10.8334 4.16671V13.8217Z"
+                fill="#ED2227" />
+        </svg>
+    </a>
+</div>
+                            </div>
+                        
+                        
+                    </article>
+                </div>
+
+                
+									
+					<div class="content-post-topic">
+						<h3>Topik:</h3>
+						<ul>
+														<li><a href="https://www.idntimes.com/tag/laskar-pelangi" class="btn-topic">laskar pelangi</a></li>
+														<li><a href="https://www.idntimes.com/tag/andrea-hirata" class="btn-topic">andrea hirata</a></li>
+														<li><a href="https://www.idntimes.com/tag/novel" class="btn-topic">novel</a></li>
+														<li><a href="https://www.idntimes.com/tag/resensi-buku" class="btn-topic">resensi buku</a></li>
+														<li><a href="https://www.idntimes.com/tag/educate-me" class="btn-topic">Educate me</a></li>
+														<li><a href="https://www.idntimes.com/tag/buku-novel" class="btn-topic">buku novel</a></li>
+													</ul>
+					</div>
+				
+									<div class="content-post-editorial">
+						<div class="content-post-editorial-header divide-table">
+							<ul class="content-post-editorial-photo divide-table-cell">
+																										<li><img src="https://www.idntimes.com/assets/img/placeholder-sq.png" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';" data-src="https://cdn.idntimes.com/content-images/avatar/default_100x100.png?v=d41d8cd98f00b204e9800998ecf8427e" alt="Seo Intern IDN Times" class="lazyload"></li>
+																										<li><img src="https://www.idntimes.com/assets/img/placeholder-sq.png" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';" data-src="https://cdn.idntimes.com/content-images/avatar/vita_100x100.jpeg?v=d41d8cd98f00b204e9800998ecf8427e" alt="Febriyanti Revitasari" class="lazyload"></li>
+																										<li><img src="https://www.idntimes.com/assets/img/placeholder-sq.png" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';" data-src="https://cdn.idntimes.com/content-images/avatar/retno-rahayu-1_100x100.jpeg?v=d41d8cd98f00b204e9800998ecf8427e" alt="Retno Rahayu" class="lazyload"></li>
+															</ul>
+							<div class="content-post-information divide-table-cell">
+								<span class="date">Editorial Team</span>
+								<a href="javascript:;" data-toggle="collapse" data-target="#editor-profile" class="">Show All</a>
+							</div>
+						</div>
+						<!-- data-toggle="collapse" data-target="#demo" -->
+						<div id="editor-profile" class="content-post-editorial-content collapse">
+							<fieldset>
+								<ul class="content-post-editorial-full">
+                                                                            <li class="divide-table">
+                                            <div class="content-post-image divide-table-cell">
+                                                                                                <img src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idntimes.com/content-images/avatar/default_100x100.png?v=d41d8cd98f00b204e9800998ecf8427e" alt="Seo Intern IDN Times" class="lazyload"
+                                                    onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';"
+                                                    >
+                                            </div>
+                                            <div class="content-post-name divide-table-cell">
+                                                <a href="https://www.idntimes.com/seo-intern-idn-times">Seo Intern IDN Times</a>
+                                                <span>Editor</span>
+                                            </div>
+                                                                                    </li>
+									                                        <li class="divide-table">
+                                            <div class="content-post-image divide-table-cell">
+                                                                                                <img src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idntimes.com/content-images/avatar/vita_100x100.jpeg?v=d41d8cd98f00b204e9800998ecf8427e" alt="Febriyanti Revitasari" class="lazyload"
+                                                    onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';"
+                                                    >
+                                            </div>
+                                            <div class="content-post-name divide-table-cell">
+                                                <a href="https://www.idntimes.com/vita">Febriyanti Revitasari</a>
+                                                <span>Editor</span>
+                                            </div>
+                                                                                    </li>
+									                                        <li class="divide-table">
+                                            <div class="content-post-image divide-table-cell">
+                                                                                                <img src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idntimes.com/content-images/avatar/retno-rahayu-1_100x100.jpeg?v=d41d8cd98f00b204e9800998ecf8427e" alt="Retno Rahayu" class="lazyload"
+                                                    onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';"
+                                                    >
+                                            </div>
+                                            <div class="content-post-name divide-table-cell">
+                                                <a href="https://www.idntimes.com/retno-rahayu-1">Retno Rahayu</a>
+                                                <span>Editor</span>
+                                            </div>
+                                                                                    </li>
+																	</ul>
+							</fieldset>
+						</div>
+					</div>
+                
+									<div class="content-post-comment" style="width: 100%;">
+						<div class="fb-comments" data-href="https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi" data-width="100%" data-numposts="5"></div>
+					</div>
+				
+                <section class="latest-post clearfix">
+    <h3 class="section-title"><span>Berita Terkini Lainnya</span></h3>
+    <div id="related-article-skeleton" class="list-latest main-latest clearfix">
+        <div id="skeleton-related-articles">
+        <li class="box-latest box-list skeleton__list pb-10">
+        <div class="full-width">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%; height: 180px "></span>                    </p>
+                </div>
+            </div>
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 40%;"></span>                    </p>
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 70%;"></span>                    </p>
+                </div>
+            </div>
+        </div>
+    </li>
+        <li class="box-latest box-list skeleton__list pb-10">
+        <div class="full-width">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%; height: 180px "></span>                    </p>
+                </div>
+            </div>
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 40%;"></span>                    </p>
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 70%;"></span>                    </p>
+                </div>
+            </div>
+        </div>
+    </li>
+        <li class="box-latest box-list skeleton__list pb-10">
+        <div class="full-width">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%; height: 180px "></span>                    </p>
+                </div>
+            </div>
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 40%;"></span>                    </p>
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 70%;"></span>                    </p>
+                </div>
+            </div>
+        </div>
+    </li>
+    </div>    </div>
+    <div id="related-articles" class="list-latest main-latest clearfix">
+    </div>
+</section>
+
+
+			</section>
+			
+
+        </div>
+        
+
+        
+        <div class="right-content sidebar-content">
+            <div class="pb-10 mb-15">
+    <div id="sidebar-recommendation" class="sidebar-trending">
+	<h3 class="section-title"><span>Rekomendasi Artikel</span></h3>
+    <div id="skeleton-popular">
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+    </div></div>
+
+</div>
+
+<div id="sidebar-trending" class="sidebar-trending">
+	<h3 class="section-title"><span>Berita Terpopuler</span></h3>
+    <div id="skeleton-popular">
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+            <li class="skeleton__list pb-10">
+            <div class="skeleton-media__body">
+                <div class="skeleton-vertical-spacing">
+                    <p>
+                        <span class="skeleton-box" style="width: 90%;"></span>                        <span class="skeleton-box" style="width: 80%;"></span>                    </p>
+                </div>
+            </div>
+        </li>
+    </div></div>
+
+
+<div class="sidebar-ads" data-testid="sidebar-ads">
+	<div id='div-gpt-ad-rectangle' class="loading-ads" data-spotx_embed_element_id="div-gpt-ad-rectangle">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-rectangle'); });
+        </script>
+    </div>
+</div><div class="sidebar-menu" data-testid="sidebar-menu">
+	<ul class="sidebar-menu-list">
+		<li data-testid="sidebar-about-us"><a href="https://www.idntimes.com/about-us">ABOUT US</a></li>
+		
+		<li data-testid="sidebar-career"><a href="https://www.idn.media/career#hire" target="_blank">CAREER</a></li>
+		<li data-testid="sidebar-privacy-policy"><a href="https://www.idntimes.com/kebijakan-privasi">PRIVACY & POLICY</a></li>
+		<li data-testid="sidebar-pedoman"><a href="https://www.idntimes.com/pedoman-media-siber">PEDOMAN MEDIA SIBER</a></li>
+		<li data-testid="sidebar-contact-us"><a href="https://www.idntimes.com/hubungi-kami">CONTACT US</a></li>
+	</ul>
+	<div class="sidebar-menu-bottom" data-testid="sidebar-menu-bottom">
+		<div class="sidebar-social" data-testid="sidebar-social">
+			FOLLOW US:
+			<a data-testid="sidebar-facebook" href="https://www.facebook.com/idntimes" title="FACEBOOK" class="social-icon" target="_blank"><i class="fab fa-facebook-square" aria-hidden="true"></i></a>
+			<a data-testid="sidebar-instagram" href="https://www.instagram.com/idntimes" title="INSTAGRAM" class="social-icon" target="_blank"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i></a>
+            <a data-testid="sidebar-youtube" href="https://www.youtube.com/channel/UCMcqmnF-uCBFzQ3NvmaELCg" title="YOUTUBE" class="social-icon" target="_blank"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i></a>
+            <a data-testid="sidebar-twitter" href="https://twitter.com/idntimes" title="TWITTER" class="social-icon" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+		</div>
+		<div class="sidebar-footer" data-testid="sidebar-footer">
+			© 2023 IDN Media | All Rights Reserved<br>
+			"The Voice of Millennials and Gen Z"
+			<h5><strong>#DIVERSITYISBEAUTIFUL</strong></h5>
+		</div>
+	</div>
+</div>
+
+<br>
+<div class="sidebar-ads" data-testid="sidebar-ads">
+	<div id="survey-betav5" class="survey-betav5">
+        <a href="https://Bit.ly/HelloIDNTimes" target="_blank">
+            <img class="media-object" src="/assets/img/survey-banner.jpg" alt="Survey Idn Times" width="100%" height="100%">
+        </a>
+    </div>
+</div><div class="sidebar-ads stickThis" data-testid="sidebar-ads">
+	<div id='div-gpt-ad-billboard_vertical' class="loading-ads" data-spotx_embed_element_id="div-gpt-ad-billboard_vertical">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-billboard_vertical'); });
+        </script>
+    </div>
+</div>
+
+
+        </div>
+        
+
+        
+                            <div class="icon-bar">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.idntimes.com%2Flife%2Finspiration%2Fseo-intern%2Fresensi-novel-laskar-pelangi?utm_source=facebook&utm_medium=sharer&utm_campaign=social" class="facebook" onclick="share(this.href); return false"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.idntimes.com%2Flife%2Finspiration%2Fseo-intern%2Fresensi-novel-laskar-pelangi?utm_source=twitter&utm_medium=sharer&utm_campaign=social&title=Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia&source=idntimes" onclick="share(this.href); return false" class="linkedin"><i class="fab fa-fw fa-linkedin"></i></a>
+                
+                <a href="https://twitter.com/intent/tweet?url=https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi&text=Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia&via=idntimes&related=idntimes" onclick="share(this.href); return false" class="twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.idntimes.com%2Flife%2Finspiration%2Fseo-intern%2Fresensi-novel-laskar-pelangi?utm_source=whatsapp&utm_medium=sharer&utm_campaign=social" class="whatsapp" data-action="share/whatsapp/share" onclick="share(this.href); return false"><i class="fab fa-fw fa-whatsapp"></i></a>
+                <a href="https://t.me/share/url?url=https%3A%2F%2Fwww.idntimes.com%2Flife%2Finspiration%2Fseo-intern%2Fresensi-novel-laskar-pelangi%3Futm_source%3Dtelegram%26utm_medium%3Dwebsharing&text=Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia%0D%0A%0D%0ATerinspirasi+dari+kisah+nyata+sang+penulis%0D%0A%0D%0AYuk+download+IDN+App+untuk+baca+berita+dengan+loading+lebih+cepat+dan+kuota+lebih+hemat+Android%2FiOS%3A%0D%0Ahttps%3A%2F%2Fidn.onelink.me%2FVKUf%2F6dfe48a3" class="telegram" onclick="share(this.href); return false"><i class="fab fa-fw fa-telegram-plane"></i></a>
+                <a href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fwww.idntimes.com%2Flife%2Finspiration%2Fseo-intern%2Fresensi-novel-laskar-pelangi?utm_source=line&utm_medium=sharer&utm_campaign=social" class="line" onclick="share(this.href); return false"><i class="fab fa-fw fa-line"></i></a>
+                <a href="mailto:?body=https%3A%2F%2Fwww.idntimes.com%2Flife%2Finspiration%2Fseo-intern%2Fresensi-novel-laskar-pelangi" class="mail"><i class="fa fa-envelope"></i></a>
+            </div>
+                
+
+    </div>
+
+    
+        
+
+    <div class="modal fade" id="unfollow-modal" tabindex="-1" role="dialog" aria-labelledby="unfollowLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body text-center">
+                <div>Berhenti mengikuti <span class="name"></span>?</div>
+            </div>
+            <div class="modal-footer">
+                <div class="row text-center">
+                    <div class="col-xs-6">
+                        <a href="javascript:;" class="unfollow-button-yes black" data-username="">Ya</a>
+                    </div>
+                    <div class="col-xs-6">
+                        <a href="javascript:;" data-dismiss="modal" class="red">Tidak</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+
+                    <footer class="static-footer">
+    <div class="container">
+        <ul class="static-footer__ul">
+                        <li>
+                <a href="https://www.idntimes.com/about-us">
+                    About Us
+                </a>
+            </li>
+                        <li>
+                <a href="https://www.idn.media/career#hire">
+                    Career
+                </a>
+            </li>
+                        <li>
+                <a href="https://www.idntimes.com/kebijakan-privasi">
+                    Privacy Policy
+                </a>
+            </li>
+                        <li>
+                <a href="https://www.idntimes.com/pedoman-media-siber">
+                    Pedoman Media Siber
+                </a>
+            </li>
+                        <li>
+                <a href="https://www.idntimes.com/hubungi-kami">
+                    Contact Us
+                </a>
+            </li>
+                    </ul>
+        <div class="static-footer__copyright row" style="margin-top: 20px; margin-bottom: 30px;">
+            <div class="col-xs-4 text-left">
+                &copy; 2023 IDN Media | All Rights Reserved
+            </div>
+            <div class="col-xs-4 text-center">
+                "The Voice of Millennials and Gen Z"
+            </div>
+            <div id="follow" class="col-xs-4 text-right">
+                <span class="follow-us">FOLLOW US:</span>
+                <a href="https://www.facebook.com/idntimes" target="_blank" data-title="facebook"><i class="fab fa-facebook-f fa-space"></i></a>
+                <a href="https://www.instagram.com/idntimes" target="_blank" data-title="instagram"><i class="fab fa-fw fa-instagram fa-space"></i></a>
+                <a href="https://www.youtube.com/channel/UCMcqmnF-uCBFzQ3NvmaELCg" target="_blank" data-title="youtube"><i class="fab fa-fw fa-youtube fa-space"></i></a>
+                <a href="https://twitter.com/idntimes" target="_blank" data-title="twitter"><i class="fab fa-twitter fa-space"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<a href="#header" class="scrollToTop"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+
+
+<div class="modal search-modal fade" id="search-modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Apa yang kamu cari?</h4>
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-search" aria-hidden="true"></i></span>
+                    <input type="search" class="form-control" id="search-input" placeholder="Cari sesuatu..." >
+                    <span class="input-group-btn sr-only">
+                        <button class="btn btn-default" type="button" id="search-button">Search Now</button>
+                    </span>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="search-content">
+
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li role="presentation" class="article active"><a href="#article" aria-controls="article" role="tab" data-toggle="tab">Artikel</a></li>
+                        <li role="presentation" class="qna"><a href="#qna" aria-controls="qna" role="tab" data-toggle="tab">Tanya Jawab</a></li>
+                        <li role="presentation" class="member"><a href="#member" aria-controls="member" role="tab" data-toggle="tab">Member</a></li>
+                        <li role="presentation" class="tags"><a href="#tags" aria-controls="tags" role="tab" data-toggle="tab">Tags</a></li>
+                    </ul>
+
+                    <div id="search-list" style="display: none;"></div>
+                    <div id="search-recommendation">
+
+                        <!-- Tab panes -->
+                        <div class="tab-content">
+                            <div role="tabpanel" class="tab-pane article active" id="article">
+                                <div>
+    <div class="recomendation-title">Rekomendasi Artikel</div>
+            <ul>
+                            <li class="box-latest box-list">
+    <a href="https://www.idntimes.com/hype/entertainment/erfah-nanda-2/trailer-perdana-film-layangan-putus?q=" title="7 Hal yang Disorot di Trailer Film Layangan Putus, Raihaanun dan Anya" class="box-panel clearfix">
+        <div class="image-latest box-image">
+            <img src="https://cdn.idntimes.com/content-images/post/20231017/filmpetualangansherin-4-ba7b40471ee738edf688fd10e0339370_600x400.jpg" class="medium-thumbnail lazyloaded" alt="7 Hal yang Disorot di Trailer Film Layangan Putus, Raihaanun dan Anya"  data-src="https://cdn.idntimes.com/content-images/post/20231017/filmpetualangansherin-4-ba7b40471ee738edf688fd10e0339370_600x400.jpg" onError="this.onerror=null;this.src='https://www.idntimes.com/assets/img/errors/asset-img-broken.png';">
+        </div>
+    </a>
+    <div class="description-latest box-description">
+        <div class="date-cat">
+            <span class="category">Entertainment</span> | <time class="date" datetime="">17 Oct 2023</time>
+        </div>
+        <a href="https://www.idntimes.com/hype/entertainment/erfah-nanda-2/trailer-perdana-film-layangan-putus?q=" title="7 Hal yang Disorot di Trailer Film Layangan Putus, Raihaanun dan Anya">
+            <h2 class="title-text">7 Hal yang Disorot di Trailer Film Layangan Putus, Raihaanun dan Anya</h2>
+        </a>
+    </div>
+</li>                            <li class="box-latest box-list">
+    <a href="https://www.idntimes.com/life/women/atika-sari-5/referensi-outfit-nuansa-biru-c1c2?q=" title="10 Referensi Outfit Nuansa Biru ala Sandrina Mazaya, Super Catchy!" class="box-panel clearfix">
+        <div class="image-latest box-image">
+            <img src="https://cdn.idntimes.com/content-images/community/2023/10/photocollage-2023101611311671-4db3e1673f4766d55761cff2fc7479dd-3294a4793db8a83e462d819e99be4ccd_600x400.jpg" class="medium-thumbnail lazyloaded" alt="10 Referensi Outfit Nuansa Biru ala Sandrina Mazaya, Super Catchy!"  data-src="https://cdn.idntimes.com/content-images/community/2023/10/photocollage-2023101611311671-4db3e1673f4766d55761cff2fc7479dd-3294a4793db8a83e462d819e99be4ccd_600x400.jpg" onError="this.onerror=null;this.src='https://www.idntimes.com/assets/img/errors/asset-img-broken.png';">
+        </div>
+    </a>
+    <div class="description-latest box-description">
+        <div class="date-cat">
+            <span class="category">Women</span> | <time class="date" datetime="">17 Oct 2023</time>
+        </div>
+        <a href="https://www.idntimes.com/life/women/atika-sari-5/referensi-outfit-nuansa-biru-c1c2?q=" title="10 Referensi Outfit Nuansa Biru ala Sandrina Mazaya, Super Catchy!">
+            <h2 class="title-text">10 Referensi Outfit Nuansa Biru ala Sandrina Mazaya, Super Catchy!</h2>
+        </a>
+    </div>
+</li>                            <li class="box-latest box-list">
+    <a href="https://www.idntimes.com/life/inspiration/nadhifa-aulia-arnesya/kebiasaan-yang-bisa-memperburuk-kecemasan-c1c2?q=" title="5 Kebiasaan yang Bisa Memperburuk Kecemasan, Hindari!" class="box-panel clearfix">
+        <div class="image-latest box-image">
+            <img src="https://cdn.idntimes.com/content-images/community/2022/02/pexels-mart-production-7277896-4e99c9153ffc58bc10ca9cd5bdccf58e-33531b41c02255a0eb09fab5c2804be3_600x400.jpg" class="medium-thumbnail lazyloaded" alt="5 Kebiasaan yang Bisa Memperburuk Kecemasan, Hindari!"  data-src="https://cdn.idntimes.com/content-images/community/2022/02/pexels-mart-production-7277896-4e99c9153ffc58bc10ca9cd5bdccf58e-33531b41c02255a0eb09fab5c2804be3_600x400.jpg" onError="this.onerror=null;this.src='https://www.idntimes.com/assets/img/errors/asset-img-broken.png';">
+        </div>
+    </a>
+    <div class="description-latest box-description">
+        <div class="date-cat">
+            <span class="category">Inspiration</span> | <time class="date" datetime="">17 Oct 2023</time>
+        </div>
+        <a href="https://www.idntimes.com/life/inspiration/nadhifa-aulia-arnesya/kebiasaan-yang-bisa-memperburuk-kecemasan-c1c2?q=" title="5 Kebiasaan yang Bisa Memperburuk Kecemasan, Hindari!">
+            <h2 class="title-text">5 Kebiasaan yang Bisa Memperburuk Kecemasan, Hindari!</h2>
+        </a>
+    </div>
+</li>                            <li class="box-latest box-list">
+    <a href="https://www.idntimes.com/life/career/ayu-alma-salsabilla/tips-mencari-kerja-lewat-aplikasi-c1c2?q=" title="5 Tips Mencari Kerja Lewat Aplikasi, Ketahui Biar Cepat Diterima!" class="box-panel clearfix">
+        <div class="image-latest box-image">
+            <img src="https://cdn.idntimes.com/content-images/community/2023/06/photogrid-plus-1687849149448-f35c78c75e8e08ea35ac2939ab50af04_600x400.jpg" class="medium-thumbnail lazyloaded" alt="5 Tips Mencari Kerja Lewat Aplikasi, Ketahui Biar Cepat Diterima!"  data-src="https://cdn.idntimes.com/content-images/community/2023/06/photogrid-plus-1687849149448-f35c78c75e8e08ea35ac2939ab50af04_600x400.jpg" onError="this.onerror=null;this.src='https://www.idntimes.com/assets/img/errors/asset-img-broken.png';">
+        </div>
+    </a>
+    <div class="description-latest box-description">
+        <div class="date-cat">
+            <span class="category">Career</span> | <time class="date" datetime="">17 Oct 2023</time>
+        </div>
+        <a href="https://www.idntimes.com/life/career/ayu-alma-salsabilla/tips-mencari-kerja-lewat-aplikasi-c1c2?q=" title="5 Tips Mencari Kerja Lewat Aplikasi, Ketahui Biar Cepat Diterima!">
+            <h2 class="title-text">5 Tips Mencari Kerja Lewat Aplikasi, Ketahui Biar Cepat Diterima!</h2>
+        </a>
+    </div>
+</li>                            <li class="box-latest box-list">
+    <a href="https://www.idntimes.com/life/diy/dina-fadillah-salma-2/desain-rumah-minimalis-scandinavian?q=" title="14 Desain Rumah Minimalis Scandinavian, Gayanya Millennial Banget" class="box-panel clearfix">
+        <div class="image-latest box-image">
+            <img src="https://cdn.idntimes.com/content-images/post/20231011/barbie-cover-47-6b370e95f7071c9d2ba4a513860ae0e5_600x400.jpg" class="medium-thumbnail lazyloaded" alt="14 Desain Rumah Minimalis Scandinavian, Gayanya Millennial Banget"  data-src="https://cdn.idntimes.com/content-images/post/20231011/barbie-cover-47-6b370e95f7071c9d2ba4a513860ae0e5_600x400.jpg" onError="this.onerror=null;this.src='https://www.idntimes.com/assets/img/errors/asset-img-broken.png';">
+        </div>
+    </a>
+    <div class="description-latest box-description">
+        <div class="date-cat">
+            <span class="category">DIY</span> | <time class="date" datetime="">17 Oct 2023</time>
+        </div>
+        <a href="https://www.idntimes.com/life/diy/dina-fadillah-salma-2/desain-rumah-minimalis-scandinavian?q=" title="14 Desain Rumah Minimalis Scandinavian, Gayanya Millennial Banget">
+            <h2 class="title-text">14 Desain Rumah Minimalis Scandinavian, Gayanya Millennial Banget</h2>
+        </a>
+    </div>
+</li>                    </ul>
+        
+    </div>                            </div>
+                            <div role="tabpanel" class="tab-pane qna" id="qna">
+                                <div>
+    <div class="recomendation-title">Rekomendasi Tanya Jawab</div>
+            <ul class="search-member-list search-qna-list">
+                            <li>
+    <div class="media">
+        <div class="media-left">
+            <a href="https://tanyajawab.idntimes.com/andi-ramadhan/Nc1TiIOlxQr20aG?q=" class="img-box">
+                <img class="media-object lazyload" src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idn.media/idnaccount/avatar/500/174ecab283ce267e0e56551d7b685c01.webp?v=1695923268" alt="Nc1TiIOlxQr20aG" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';">
+            </a>
+        </div>
+        <div class="media-body">
+            <small class="grey-text">Ditanyakan pada 17 Oct 2023 | 12.19</small>
+            <a href="https://tanyajawab.idntimes.com/andi-ramadhan/Nc1TiIOlxQr20aG?q=">
+                <h2 class="bold-text">Gimana caranya agar artikel kita cepat dimoderasi oleh tim redaksi?</h2>
+            </a>
+            <div class="actions-qna clearfix">
+                <ul class="tag choosen-category clearfix">
+                                            <li><a href="#">Tips</a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</li>                            <li>
+    <div class="media">
+        <div class="media-left">
+            <a href="https://tanyajawab.idntimes.com/yogie-fadila/fTLIGsqT1bHkNFs?q=" class="img-box">
+                <img class="media-object lazyload" src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idn.media/idnaccount/avatar/500/37ecccd988da77cbff7d822bdd79cb4a.webp?v=1660065418" alt="fTLIGsqT1bHkNFs" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';">
+            </a>
+        </div>
+        <div class="media-body">
+            <small class="grey-text">Ditanyakan pada 16 Oct 2023 | 20.21</small>
+            <a href="https://tanyajawab.idntimes.com/yogie-fadila/fTLIGsqT1bHkNFs?q=">
+                <h2 class="bold-text">Apa efek Putusan MK hari ini terhadap Pemilu nanti? #GenZMemilih</h2>
+            </a>
+            <div class="actions-qna clearfix">
+                <ul class="tag choosen-category clearfix">
+                                            <li><a href="#">Indonesia</a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</li>                            <li>
+    <div class="media">
+        <div class="media-left">
+            <a href="https://tanyajawab.idntimes.com/ari-nofal-alatas/mhEQzs0Q1yxFCJA?q=" class="img-box">
+                <img class="media-object lazyload" src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idn.media/idnaccount/avatar/500/c1d8226be18d264fffc4cd8e198a5f98.webp?v=1695612438" alt="mhEQzs0Q1yxFCJA" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';">
+            </a>
+        </div>
+        <div class="media-body">
+            <small class="grey-text">Ditanyakan pada 14 Oct 2023 | 16.29</small>
+            <a href="https://tanyajawab.idntimes.com/ari-nofal-alatas/mhEQzs0Q1yxFCJA?q=">
+                <h2 class="bold-text">Kata atau Kalimat Apa yang Sekarang Lagi Viral Di Media Sosial?</h2>
+            </a>
+            <div class="actions-qna clearfix">
+                <ul class="tag choosen-category clearfix">
+                                            <li><a href="#">Viral</a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</li>                            <li>
+    <div class="media">
+        <div class="media-left">
+            <a href="https://tanyajawab.idntimes.com/yogie-fadila/HEjlq1ANHl6b4OD?q=" class="img-box">
+                <img class="media-object lazyload" src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idn.media/idnaccount/avatar/500/37ecccd988da77cbff7d822bdd79cb4a.webp?v=1660065418" alt="HEjlq1ANHl6b4OD" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';">
+            </a>
+        </div>
+        <div class="media-body">
+            <small class="grey-text">Ditanyakan pada 12 Oct 2023 | 14.00</small>
+            <a href="https://tanyajawab.idntimes.com/yogie-fadila/HEjlq1ANHl6b4OD?q=">
+                <h2 class="bold-text">Apa pandangan Capres 2024 soal Israel dan Palestina? #GenZMemilih</h2>
+            </a>
+            <div class="actions-qna clearfix">
+                <ul class="tag choosen-category clearfix">
+                                            <li><a href="#">Indonesia</a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</li>                            <li>
+    <div class="media">
+        <div class="media-left">
+            <a href="https://tanyajawab.idntimes.com/lutfi-zahirotul-kubro/MA5JhZOhpmczSc7?q=" class="img-box">
+                <img class="media-object lazyload" src="https://www.idntimes.com/assets/img/placeholder-sq.png" data-src="https://cdn.idn.media/idnaccount/avatar/500/c8c8ab4273a391eb8b6477c04576782c.webp?v=1683939715" alt="MA5JhZOhpmczSc7" onError="this.onerror=null;this.src='https://cdn.idn.media/idnaccount/avatar/default.png';">
+            </a>
+        </div>
+        <div class="media-body">
+            <small class="grey-text">Ditanyakan pada 10 Oct 2023 | 10.37</small>
+            <a href="https://tanyajawab.idntimes.com/lutfi-zahirotul-kubro/MA5JhZOhpmczSc7?q=">
+                <h2 class="bold-text">Sebenarnya,perubahan seperti apa yang diinginkan para calon pejabat negara terhadap Indonesia?Apa hal paling utama yang akan diubah dan bisa berdampak terhadap masalah yang selama ini masyarakat hadapi? #GenZMemilih</h2>
+            </a>
+            <div class="actions-qna clearfix">
+                <ul class="tag choosen-category clearfix">
+                                            <li><a href="#">Indonesia</a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</li>                    </ul>
+        
+    </div>                            </div>
+                            <div role="tabpanel" class="tab-pane member" id="member">
+                                <div>
+    <div class="recomendation-title">Rekomendasi Member</div>
+        
+    </div>                            </div>
+                            <div role="tabpanel" class="tab-pane tags" id="tags">
+                                <div>
+    <div class="recomendation-title">Rekomendasi Tags</div>
+            <ul class="search-tags-list">
+                            <li class="box-latest box-list">
+    
+    
+    <a href="https://www.idntimes.com/tag/netflix?q=">netflix</a>
+</li>                            <li class="box-latest box-list">
+    
+    
+    <a href="https://www.idntimes.com/tag/rekomendasi-film?q=">Rekomendasi Film</a>
+</li>                            <li class="box-latest box-list">
+    
+    
+    <a href="https://www.idntimes.com/tag/film-netflix?q=">film netflix</a>
+</li>                            <li class="box-latest box-list">
+    
+    
+    <a href="https://www.idntimes.com/tag/divert-me?q=">Divert me</a>
+</li>                            <li class="box-latest box-list">
+    
+    
+    <a href="https://www.idntimes.com/tag/film-olahraga?q=">Film Olahraga</a>
+</li>                    </ul>
+        
+    </div>                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/plugins/lazysizes.min.js"></script>
+<script type="text/javascript" src="/assets/js/lib/purify.min.js"></script>
+<script type="text/javascript" src="/assets/js/desktop.js"></script>
+<script type="text/javascript">
+	if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+		document.write('<link rel="stylesheet" href="/assets/css/safari.css" />');
+	}
+</script>
+
+
+
+        
+        <script>
+        function notify(message, type, autohide, delay, duration) {
+            var div = $('<div />', {
+                'class' : 'notice' + (type ? ' '+type : ''),
+                text    :  message || ''
+            }),
+                close = $('<div />', {
+                    'class' : 'close-container',
+                    click   : remove.bind(div.stop(true, true), 0, duration),
+                    html    : $('<i />', {
+                        'class' : 'fas fa-check'
+                    })
+            });
+            
+            $('#notification-container').show().append(div.fadeIn(duration||0));
+            if (autohide) remove(div, delay, duration);
+        }
+
+        function remove(div, delay, duration) {
+            div.delay(delay||0).fadeOut(duration || 0, function() {
+                $(this).remove();
+            });
+        }
+        </script>
+
+        <script src="/assets/js/jquery-appear.js"></script>
+
+                <script>
+	$('.sidebar-social').on('click', 'a', function(){
+        var title = $(this).attr('title');
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'event': 'generalEvent',
+            'eventCategory': 'follow',
+            'eventAction': 'sidebar',
+            'eventLabel': title.toLowerCase(),
+        });
+    });
+</script>
+    <script>
+        $('.header-campaign').on('click', function() {
+            var menu = $(this.children).text();
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'generalEvent',
+                'eventCategory': 'navigation',
+                'eventAction': 'main menu click',
+                'eventLabel': menu.toLowerCase(),
+            });
+        });
+        $('ul.navigation').on('click', 'li.main-menu', function() {
+            var menu = $(this.children).text();
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'generalEvent',
+                'eventCategory': 'navigation',
+                'eventAction': 'main menu click',
+                'eventLabel': menu.toLowerCase(),
+            });
+        });
+        $('#dropdown-submenu-regional').on('click', 'li', function() {
+            var menu = $(this.children).text();
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'generalEvent',
+                'eventCategory': 'navigation',
+                'eventAction': 'regional menu click',
+                'eventLabel': 'regional ' + menu.toLowerCase(),
+            });
+        });
+        $('.dropdown-submenu-more').on('click', 'li', function() {
+            var menu = $(this.children).text();
+            if ($(this).hasClass('channels')) {
+                menu = $(this.children).children().attr('alt');
+            }
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'generalEvent',
+                'eventCategory': 'navigation',
+                'eventAction': 'more categories menu click',
+                'eventLabel': 'more categories ' + menu.toLowerCase(),
+            });
+        });
+
+    </script>
+<script>
+    $( document ).ready(function() {
+        getTrendingTags();
+    });
+    function getTrendingTags() {
+        $.ajax({
+            url: "https://www.idntimes.com/ajax/trending-tags",
+            type: "GET",
+            dataType: "json",
+            complete: function(data) {
+                if (data.responseText === '<span></span>') {
+                    stopload = true;
+                    $('#skeleton-trending-tags').hide();
+                    return false;
+                }
+                $('#skeleton-trending-tags').hide();
+                $('#section-trending-tags').append(data.responseText);
+                initTrendingTags();
+                return true;
+            }
+        });
+    };
+    function initTrendingTags() {
+        $(".wrapper__trending_tag").on("scroll", function () {
+            var cur = $(this).scrollLeft();
+            var max = $(this)[0].scrollWidth - $(this).width();
+            $('#content-trending-tags #scroll_right').removeClass('disabled');
+            $('#content-trending-tags #scroll_left').removeClass('disabled');
+            if (cur == 0) {
+                $('#content-trending-tags #scroll_left').addClass('disabled');
+            }
+            else if (cur >= (max - 5)) {
+                $('#content-trending-tags #scroll_right').addClass('disabled');
+            }
+        });
+        $(".wrapper__trending_tag").trigger("scroll");
+    }
+</script>
+    <script type="text/javascript">
+        (function() {
+            var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.charset = "utf-8"; pa.async = true;
+            pa.src = window.location.protocol + "//api.popin.cc/searchbox/idntimes_crawler.js";
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+        })();
+    </script>
+    <script>
+        $('#follow').on('click', 'a', function(){
+            var title = $(this).attr('data-title');
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'generalEvent',
+                'eventCategory': 'follow',
+                'eventAction': 'footer',
+                'eventLabel': title,
+            });
+        });
+    </script>
+
+<!-- DATA LAYER TRACKER -->
+<script>
+    function trackerClicked(tracker_type, destination_url){
+        var articleTracked = '';
+        switch(tracker_type) {
+            case 'latest':
+                articleTracked = 'Berita Terkini Lainnya'
+                break;
+            case 'popular':
+                articleTracked = 'Berita Terpopuler'
+                break;
+            case 'related':
+                articleTracked = 'Editor Picks'
+                break;
+            case 'readmore':
+                articleTracked = 'Baca Artikel Selengkapnya'
+                break;
+        };
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'event':'click_article',
+            'section': articleTracked,
+            'position':'1',
+            'content_title':'Resensi Novel Laskar Pelangi Karya Andrea Hirata, Karya Apik Mendunia',
+            'content_id':'resensi-novel-laskar-pelangi',
+            'content_category':'Life',
+            'content_subcategory':'Inspiration',
+            'content_author':'Bella Manoban',
+            'content_published_date':'2022-10-03',
+            'content_updated_date':'2023-07-04',
+            'content_tag':'laskar pelangi, andrea hirata, novel, resensi buku, Educate me, buku novel',
+            'page_type':'detail_content',
+            'enter_from_url':'https://www.idntimes.com/life/inspiration/seo-intern/resensi-novel-laskar-pelangi',
+            'destination_url': destination_url,
+            'page_path':'/life/inspiration/seo-intern/resensi-novel-laskar-pelangi',
+            'is_login':'false',
+            'uuid':'none'
+        });
+    }
+    $( ".editors-pick a" ).on( "click", function() {
+        var tracker_type = 'related';
+        var destination_url = $(this).attr('href');
+
+        trackerClicked(tracker_type, destination_url);
+    });
+    $( "#related-articles a, #latest-article a" ).on( "click", function() {
+        var tracker_type = 'latest';
+        var destination_url = $(this).attr('href');
+
+        trackerClicked(tracker_type, destination_url);
+    });
+</script>
+<!-- END DATA LAYER TRACKER -->
+<script>
+	$('.icon-bar').on('click', 'a', function(){
+		var label = $(this).attr('class');
+		window.dataLayer = window.dataLayer || [];
+		window.dataLayer.push({
+			'event': 'generalEvent',
+			'eventCategory': 'share',
+			'eventAction': 'sticky sidebar',
+			'eventLabel': label.toLowerCase(),
+		});
+	});
+
+	$('#article-content').on('click', 'a', function(){
+		var label = $(this).text();
+		label = $.trim(label);
+		if(label.includes("Baca Juga:")){
+			label = label.replace("Baca Juga: ", "");
+			window.dataLayer = window.dataLayer || [];
+			window.dataLayer.push({
+				'event': 'generalEvent',
+				'eventCategory': 'baca juga',
+				'eventAction': label,
+				'eventLabel': 'not applicable',
+			});
+		}
+    });
+    $('.share-box').on('click', 'a', function(){
+		var title = $(this).attr('data-title');
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'event': 'generalEvent',
+            'eventCategory': 'share',
+            'eventAction': 'before article',
+            'eventLabel': title,
+        });
+    });
+</script>
+    <script>
+        $(document).on('click', '#search-list', function(){
+            // var articleList = $(this).find('a.box-panel');
+            var articleList = $(this).find('#article-result.tab-pane.active a');
+            var articleTitle = $(articleList).attr('title');
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'generalEvent',
+                'eventCategory': 'search',
+                'eventAction': 'suggested search query selected click',
+                'eventLabel': articleTitle,
+            });
+        });
+    </script>
+            <script>
+        $('.bottom-sticky-ads__close-btn').click(function() {
+            $('.bottom-sticky-ads').css({ 'display': 'none' });
+        });
+    </script>
+        
+    <script>
+    $( document ).ready(function() {
+        getLatestArticles();
+    });
+    function getLatestArticles() {
+        var category_slug = 'life'
+        if (category_slug == 'all') {
+            category_slug = null
+        }
+        $.ajax({
+            url: "https://www.idntimes.com/ajax/latest-news",
+            type: "GET",
+            data: {
+                category: category_slug
+            },
+            dataType: "json",
+            complete: function(data) {
+                if (data.responseText === '<span></span>') {
+                    $('#skeleton-related-articles').hide();
+                    return false;
+                }
+                $('#skeleton-related-articles').hide();
+                $('#related-articles').append(data.responseText);
+                $('#latest-list').appear();
+                return true;
+            }
+        });
+    };
+    $(document.body).on('appear', '#latest-list', function(e, $affected) {
+        $('#latest-list').jscroll(jscrollOptions);
+    });
+</script><script>
+    $( document ).ready(function() {
+        getTrendings();
+    });
+    function getTrendings() {
+        $.ajax({
+            url: "https://www.idntimes.com/ajax/sidebar-trending-news",
+            type: "GET",
+            dataType: "json",
+            complete: function(data) {
+                if (data.responseText === '<span></span>') {
+                    stopload = true;
+                    $('#skeleton-popular').hide();
+                    return false;
+                }
+                $('#sidebar-recommendation #skeleton-popular').hide();
+                $('#sidebar-recommendation').append(data.responseText);
+                return true;
+            }
+        });
+    };
+</script>
+    <script>
+    $( document ).ready(function() {
+        getPopularNews();
+    });
+    function getPopularNews() {
+        $.ajax({
+            url: "https://www.idntimes.com/ajax/popular-news",
+            type: "GET",
+            dataType: "json",
+            complete: function(data) {
+                if (data.responseText === '<span></span>') {
+                    stopload = true;
+                    $('#sidebar-trending #skeleton-popular').hide();
+                    return false;
+                }
+                $('#sidebar-trending #skeleton-popular').hide();
+                $('#sidebar-trending').append(data.responseText);
+                return true;
+            }
+        });
+    }
+</script>    <script type="text/javascript">
+        var div = $('.stickThis').offset().top;
+        var div_tmp = div;
+        
+        $(document).scroll(function() {
+            var scroll_top = $(window).scrollTop();
+            var window_height = $(window).outerHeight();
+            var div = $('.stickThis').offset().top;
+            var div_parent_top = $('.right-content').offset().top + $('.right-content').outerHeight();
+            
+            if(div_tmp < div && div < div_parent_top) {
+                div_tmp = div;
+            }
+
+            if (scroll_top >= div) {
+                $('.stickThis').addClass('stick');
+            } else {
+                $('.stickThis').removeClass('stick');
+            }
+
+            if (scroll_top < div_tmp) {
+                $('.stickThis').removeClass('stick');
+            }
+
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            const token = $(document).find('meta[name="csrf-token"]').attr('content');
+            const url = $(document).find('#component-account').attr('data-url-account-status');
+            $.ajax({
+                url: url,
+                type: "GET",
+                xhrFields: {
+                    withCredentials: true
+                },
+                data: {
+                    "_token": token
+                },
+                success: function (result) {
+                    if (result.status == 'success') {
+                        $(document).find('#component-account').html(result.data.component);
+                    }
+                }
+            });
+        });
+    </script>
+    <script src="https://www.idntimes.com/assets/plugins/lazyYT/lazyYT.min.js"></script>
+    <script src="https://www.idntimes.com/assets/plugins/jquery-inview/jquery.inview.min.js"></script>
+    <script type="text/javascript">
+        $( document ).ready(function() {
+            $('.js-lazyYT').lazyYT('');
+			$('#related-articles').jscroll(jscrollOptions);
+			// $("#ivsn-wrapper").insertAfter($(".article__content p:nth-of-type(3n)").next());
+        });
+    </script>
+
+    
+
+	
+
+            <script type="text/javascript">
+            var ajaxFollowUrl = "https://www.idntimes.com/follow";
+        </script>
+        
+        
+    
+    
+    
+    
+
+    
+    <script>
+    $(document).ready(function() {
+
+        if ($(".split-page").length > 0) {
+            $('#article-content').addClass('split-page-available');
+        } else {
+            $('#read-more2').remove();
+            $(window).scroll(function() {
+                if ($(document).scrollTop() > $(window).height()) {
+                    $('#article-content').addClass('full').css('max-height', 'initial');
+                    $(window).off("scroll");
+                }
+            })
+        }
+
+                    // SHOW ONLY 1st LISTICLE
+            $('.show-page').each(function() {
+                var value = $(this).attr('target');
+                switch (value) {
+                    case 1:
+                        $('.split-page' + value).addClass('open');
+                        $(this).remove();
+                        break;
+                    case 2:
+                        $('.show-page[target="2"]').removeClass('hide');
+
+                    default:
+                        break;
+                }
+            });
+        
+    });
+</script>
+    
+    <script>
+        // Menambahkan header campaign, jika ada
+        $(document).ready(function() {
+            const selector = $('ul.navigation');
+            $.ajax({
+                url: "https://www.idntimes.com/ajax/navbar/campaigns",
+                type: "GET",
+                data: {
+                    '_token': "66y6jIfejwAERTkChYrU2R0OVY2WV4GEPLWvLGr5"
+                },
+                success: function(result) {
+                    result.campaigns.forEach((campaign) => {
+                        const now = new Date();
+                        const startDate = new Date(campaign.date.start);
+                        const endDate = new Date(campaign.date.end);
+
+                        if(startDate <= now && endDate >= now){
+                            selector.prepend('<li><a href="' + campaign.url + '">' + campaign.name + '</a></li>');
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+    <script type="text/javascript">
+    $(function() {
+
+        $("#search-modal").on('show.bs.modal',function(e){
+            $('#search-input').val('');
+            $("#search-list").html('').hide();
+            $('#search-recommendation').show();
+            $('#search-input').focus();
+            $(".search-content .nav-tabs li").removeClass("active");
+            $(".search-content .nav-tabs li.article").addClass("active");
+            $('#search-recommendation .tab-pane').removeClass('active');
+            $('#search-recommendation .tab-pane.article').addClass('active');
+        });
+
+        $(document).on('shown.bs.tab', "#search-modal #search-list a[data-toggle=tab]", function (e) {
+            // console.log('shown.bs.tab');
+            if ($("#search-modal .modal-content").outerHeight() < $(window).height() && $('#search-list .tab-pane.active').find('.result-empty').length < 1) {
+                // console.log('call ajax ajaxMoreSearchResult()');
+                ajaxMoreSearchResult();
+            }
+        });
+
+        // infinite scroll
+        $("#search-input").keyup(function(event) {
+            if (event.keyCode === 13) {
+                $("#search-button").click();
+            }
+        });
+
+        var ajaxKill = false;
+
+        $(document).on('click', "#search-button", function (e) {
+            e.preventDefault();
+            var $searchBtn = $(this);
+            var $searchInput = $('#search-input');
+            var keyword = $searchInput.val().trim();
+
+            var type = $('.search-content .nav-tabs li.active').find('a').attr('aria-controls');
+
+            if (keyword !== "") {
+                if (ajaxKill === false) {
+                    ajaxKill = true;
+                    $("#search-recommendation").hide();
+                    $("#search-list").html('<div class="text-center loader" style="padding: 20px 0 0;"><img src="https://www.idntimes.com/assets/img/loader.gif" width="50" /></div>').show();
+                    // $('.search-text')
+                    //     .html('Tunggu Sebentar... <div class="bubblingG"><span id="bubblingG_1"></span><span id="bubblingG_2"></span><span id="bubblingG_3"></span></div>')
+                    //     .show();
+                    $searchBtn.prop('disabled', true);
+                    $searchInput.prop('disabled', true);
+
+                    dataLayer.push({
+                        'event' : 'search',
+                        'keyword' : keyword.toLowerCase()
+                    });
+
+                    $.ajax({
+                        url: "https://www.idntimes.com/search",
+                        type: "GET",
+                        data: {
+                            keyword: keyword,
+                            type: 'all',
+                            page: 1
+                        }
+                    })
+                    .done(function(data) {
+                        if (data !== '') {
+                            $('#search-list').html(data).show();
+                            $('#search-input').val(keyword);
+                            $("#search-recommendation").hide();
+                            $('#search-list').find('#'+type).addClass('active');
+                        } else {
+                            $("#search-list").html('Hmm..Kami tak bisa menemukan<br>apa yang kamu cari. Coba topik lain, yuk').show();
+                        }
+                        ajaxKill = false;
+                        $searchBtn.prop('disabled', false);
+                        $searchInput.prop('disabled', false);
+                    })
+                    .fail(function(jqXHR, textStatus) {
+                        ajaxKill = false;
+                        $searchBtn.prop('disabled', false);
+                        $searchInput.prop('disabled', false);
+                    });
+                }
+            } else {
+                alert('Masukkan kata kunci!');
+            }
+        });
+
+        $('#search-modal').on("scroll", function() {
+            // console.log($(this).scrollTop());
+            // console.log($(this).innerHeight());
+            // console.log(this.scrollHeight);
+            // console.log(this.scrollTop);
+            // console.log(this.clientHeight);
+            // console.log(this.clientHeight + 1);
+            // console.log('=========');
+            // this.scrollHeight - this.scrollTop === this.clientHeight
+            // if ($(this).scrollTop() + $(this).innerHeight() >= this.scrollHeight) {
+            if (this.scrollHeight - this.scrollTop <= this.clientHeight + 1) {
+                // alert('reached bottom');
+                ajaxMoreSearchResult();
+            }
+        });
+
+        var ajaxMoreSearchResult = function() {
+            var $searchBtn = $('#search-button');
+            var $searchInput = $('#search-input');
+            var $searchContainer = $('#search-list');
+            var keyword = $searchInput.val().trim();
+            if (ajaxKill === false && keyword != "" && $searchContainer.is(':visible')) {
+                ajaxKill = true;
+                $("#search-recommendation").hide();
+                $searchContainer.append('<div class="text-center loader" style="padding: 20px 0 0;"><img src="https://www.idntimes.com/assets/img/loader.gif" width="50" /></div>');
+                $searchBtn.prop('disabled', true);
+                $searchInput.prop('disabled', true);
+
+                var type = $('.search-content .nav-tabs li.active').find('a').attr('aria-controls');
+                var page = parseInt($('#search-list .tab-pane.active').attr('data-page'));
+                var nextPage = page + 1;
+
+                var content = '';
+                if(type == 'article') {
+                    content = '#article';
+                } else if(type == 'qna') {
+                    content = '#qna';
+                } else if(type == 'user') {
+                    content = '#member';
+                } else if(type == 'tag') {
+                    content = '#tags';
+                }
+
+                if (page != "-1") {
+                    $.ajax({
+                        url: "https://www.idntimes.com/search",
+                        type: "GET",
+                        data: {
+                            keyword: keyword,
+                            type: type,
+                            page: nextPage
+                        }
+                    })
+                    .done(function(data) {
+                        $('#search-list .loader').remove();
+                        if (data !== '') {
+                            $(content + ' ul:first').append(data).show();
+                            $(content).attr('data-page', nextPage);
+                        } else {
+                            $(content).append('<p class="text-center" style="margin: 1.5rem 0;">&ndash; <em>telah mencapai batas akhir</em> &ndash;</p>').show();
+                            $(content).attr('data-page', "-1");
+                        }
+                        ajaxKill = false;
+                        $searchBtn.prop('disabled', false);
+                        $searchInput.prop('disabled', false);
+                    })
+                    .fail(function(jqXHR, textStatus) {
+                        $('#search-list .loader').remove();
+                        ajaxKill = false;
+                        $searchBtn.prop('disabled', false);
+                        $searchInput.prop('disabled', false);
+                    });
+                } else {
+                    $('#search-list .loader').remove();
+                    ajaxKill = false;
+                    $searchBtn.prop('disabled', false);
+                    $searchInput.prop('disabled', false);
+                }
+            }
+        };
+
+
+
+    });
+    </script>
+
+        
+        
+		
+
+			<script>
+	var topics = [];
+
+			topics.push('laskar pelangi');
+			topics.push('andrea hirata');
+			topics.push('novel');
+			topics.push('resensi buku');
+			topics.push('Educate me');
+			topics.push('buku novel');
+	
+    if(window.isAllowAddressByRegion){
+        dataLayer.push({
+            'event' : 'total_site_traffic',
+            'lotameDomain' : 'www.idntimes.com',
+            'lotameCategory' : 'Life',
+            'lotameSubCategory' : 'Inspiration',
+            'lotameAmpUrl' : 'www.idntimes.com/life/inspiration/amp/seo-intern/resensi-novel-laskar-pelangi',
+            'lotameGender' : '',
+            'lotameAge' : '',
+            'lotameTopics' : topics,
+        });
+    }
+
+	</script>
+    </body>
+</html>
